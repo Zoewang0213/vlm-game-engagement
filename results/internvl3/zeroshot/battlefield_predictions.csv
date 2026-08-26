@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows a relatively calm environment with no visible combat or immediate action, and the player appears to be in a passive state with minimal interaction or feedback from the game."
+frame01-02_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows a relatively calm environment with minimal action, and the player appears to be in a non-combat situation with no immediate threats or dynamic events. The HUD elements indicate communication with teammates but lack signs of intense gameplay or time pressure."
+frame02-03_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows a relatively calm environment with minimal action, such as a few distant figures and no immediate combat. The HUD indicates communication with teammates but lacks signs of intense gameplay or time pressure."
+frame03-04_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with visible enemies and a tank nearby, along with player communication and a minimap indicating strategic positioning, suggesting high engagement."
+frame04-05_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no immediate combat or interaction, and the HUD indicates minimal action or feedback."
+frame05-06_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows minimal action with no visible combat or immediate threats, and the player appears to be in a relatively calm environment with no signs of time pressure or dynamic action."
+frame06-07_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no immediate action or interaction, and the player appears to be in a calm, open area without visible combat or time pressure."
+frame07-08_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or immediate action, and the player appears to be in a calm, open area without interaction with other players or entities."
+frame08-09_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no immediate action or combat, and the player appears to be in a passive state with minimal interaction or feedback from the game."
+frame09-10_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows the player near a stationary vehicle with no visible combat or dynamic action, and the environment appears calm with no immediate threats or interactions, indicating low engagement."
+frame10-11_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively calm environment with no visible combat or dynamic action, and the player appears to be in a stationary position with minimal interaction or feedback from the game."
+frame11-12_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible combat or dynamic action, and the player appears to be in a passive state near a dock, suggesting low engagement."
+frame12-13_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively calm environment with no active combat or dynamic action, and the player appears to be in a stationary vehicle with minimal interaction or visible feedback from the game."
+frame13-14_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a peaceful beach environment with no visible combat or dynamic action, and the player appears to be in a stationary vehicle with minimal interaction or feedback from the game."
+frame14-15_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a vehicle driving on a beach with minimal action, and the HUD indicates a map and score but no active combat or dynamic events, suggesting a low-intensity moment."
+frame15-16_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible combat or dynamic action, and the player appears to be in a passive state with minimal interaction or feedback from the game."
+frame16-17_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible combat or dynamic action, and the player appears to be in a vehicle with minimal interaction or feedback from the game."
+frame17-18_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static view from inside a vehicle with no visible combat or dynamic action, and the environment appears calm and uneventful."
+frame18-19_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a helicopter view with minimal action, and the HUD indicates a map and score without active combat or dynamic events, suggesting a low-intensity moment."
+frame19-20_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or interaction, and the player appears to be in a passive state with minimal action or feedback from the game."
+frame20-21_01,0.6,low,0,high,1,"Score: 0.6
+Label: Low
+Rationale: The scene shows the player in a vehicle with minimal action, and the HUD indicates a kill feed but no immediate combat or dynamic action, suggesting a relatively passive state."
+frame21-22_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a calm environment with no immediate action or combat, and the HUD indicates recent in-game events without ongoing engagement."
+frame22-23_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively calm environment with no immediate action or combat, and the player appears to be in a passive state with minimal interaction or feedback from the game."
+frame23-24_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no immediate action or combat, and the player appears to be in a passive state with minimal interaction or feedback from the game."
+frame24-25_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible gunfire and interaction with other players, as indicated by the kill feed and dynamic action on the map."
+frame25-26_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively calm environment with no immediate combat or dynamic action, and the player appears to be in a passive state near the water with minimal interaction or tension."
+frame26-27_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is actively engaged in combat, as indicated by the visible gunfire and the presence of an enemy on the mini-map. The HUD shows active gameplay elements like health, ammo, and a kill feed, suggesting a dynamic and challenging situation."
+frame27-28_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is actively engaged in combat, as indicated by the visible gunfire and the presence of an enemy on the mini-map. The HUD shows active gameplay elements like health, ammo, and objectives, suggesting a dynamic and challenging situation."
+frame28-29_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively calm environment with no immediate combat or dynamic action, and the player appears to be in a passive state near water with minimal interaction or tension."
+frame29-30_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no immediate action or combat, and the player appears to be idle with minimal interaction or feedback from the game."
+frame30-31_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is actively holding a weapon and appears to be in a combat situation with a vehicle nearby, indicating dynamic action and engagement."
+frame31-32_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player holding a weapon with minimal action, and the environment appears calm with no immediate combat or interaction, indicating low engagement."
+frame32-33_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a passive position with no visible combat or dynamic action, and the environment appears empty and uneventful."
+frame33-34_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static view from inside a vehicle with no visible combat or dynamic action, and the environment appears empty and uneventful."
+frame34-35_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively calm environment with no visible combat or dynamic action, and the player appears to be in a passive state near the water with minimal interaction or tension."
+frame35-36_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or dynamic action, and the player appears to be in a passive state with minimal interaction or feedback from the game."
+frame36-37_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a character in a vehicle with no immediate action or combat, and the environment appears calm with no visible threats or dynamic events, indicating low engagement."
+frame37-38_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a vehicle moving through a relatively calm environment with no visible combat or interaction, indicating a low-intensity moment. The HUD elements suggest a pause or idle state with no immediate action or threats."
+frame38-39_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player driving a vehicle with minimal action or interaction, and the environment appears calm with no immediate signs of combat or time pressure."
+frame39-40_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a vehicle moving through a relatively empty environment with no visible combat or interaction with other players, indicating a low-intensity moment."
+frame40-41_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a vehicle moving through a relatively empty environment with no visible combat or interaction with other players, indicating a low-intensity moment."
+frame41-42_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or dynamic action, and the player appears to be in a passive state with minimal interaction or feedback from the game."
+frame42-43_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a vehicle moving through the terrain, visible HUD elements indicating player status and objectives, and interaction with other players as seen in the kill feed."
+frame43-44_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows a relatively calm environment with no active combat or immediate action, and the player appears to be in a passive state with minimal interaction or feedback from the game."
+frame44-45_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows a vehicle moving along a path with minimal action or interaction, and the HUD indicates a capture point has been taken, suggesting a momentary lull in gameplay."
+frame45-46_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows a vehicle driving on a path with minimal action or interaction, and the HUD indicates a lack of immediate combat or player engagement."
+frame46-47_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a vehicle driving through a relatively calm environment with no visible combat or immediate action, and the HUD indicates a capture point has been taken, suggesting a momentary lull in gameplay."
+frame47-48_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player moving through a relatively empty environment with no visible combat or interaction with other players, and the HUD indicates a disconnected teammate, suggesting a lack of active engagement."
+frame48-49_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a disconnected game with no active combat or player movement, indicating a lack of engagement."
+frame49-50_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a disconnected game with no active combat or dynamic action, and the environment appears idle with minimal interaction or feedback."
+frame50-51_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or dynamic action, and the HUD indicates a disconnection message, suggesting a lack of active gameplay."
+frame51-52_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a vehicle driving on a dirt path with minimal action, and the message ""Gamebond disconnected"" suggests a lack of active gameplay. The HUD elements indicate a low-intensity state with no visible combat or interaction with other players."
+frame52-53_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a vehicle driving on a path with minimal action or interaction, and the HUD elements indicate a lack of immediate combat or challenges, suggesting a low-intensity moment."
+frame53-54_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a passive environment with no visible combat or dynamic action, and a teammate has disconnected, indicating a lack of engagement."
+frame54-55_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a vehicle driving on a bridge with minimal action, and the HUD indicates a disconnected player, suggesting a lack of active engagement or interaction."
+frame55-56_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player driving a vehicle on a bridge with minimal action, and the HUD indicates a disconnected player, suggesting a lack of active engagement or interaction."
+frame56-57_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a vehicle on a bridge with minimal action, and the HUD indicates a player has disconnected, suggesting a lack of active engagement or dynamic gameplay."
+frame57-58_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player driving a vehicle on a road with minimal action or interaction, and the HUD indicates a disconnected player, suggesting a lack of active engagement or dynamic gameplay."
+frame58-59_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a vehicle driving on a bridge with minimal action or interaction, and the environment appears calm with no visible combat or time pressure."

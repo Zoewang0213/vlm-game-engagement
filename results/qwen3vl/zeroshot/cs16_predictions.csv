@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is holding a grenade with no visible enemies or immediate threats, and the scene is static with no active combat or dynamic events, suggesting a low-intensity, possibly idle or preparatory moment."
+frame01-02_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static, empty environment with no visible players, enemies, or active combat, and the only dynamic element is a single projectile in mid-air, suggesting a lack of immediate gameplay tension or interaction."
+frame02-03_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is holding a weapon but appears idle in a static environment with no visible enemies, teammates, or active combat, and the HUD shows no immediate threats or objectives, indicating low engagement."
+frame03-04_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with an explosion occurring in the environment, a weapon held ready by the player, and visible HUD elements including health, ammo, and a kill feed, all indicating intense, meaningful gameplay."
+frame04-05_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static, empty courtyard with no visible enemies, teammates, or active combat, and the HUD indicates no immediate threats or objectives, suggesting a passive or idle state."
+frame05-06_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a deserted map with no visible enemies, teammates, or active combat, and the HUD indicates no immediate threats or objectives, suggesting a passive or idle state."
+frame06-07_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a desert-like map with no visible enemies, teammates, or active combat, and the HUD indicates no immediate threats or objectives, suggesting a passive or idle state."
+frame07-08_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static, empty corridor with no visible enemies or immediate action, and the player is holding a weapon but not actively engaging in combat, indicating low engagement."
+frame08-09_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is actively aiming a weapon down a corridor with visible enemy indicators (red name tag ""Marinegro"" and health/armor HUD elements), suggesting imminent combat, which indicates high engagement."
+frame09-10_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is in a static, dimly lit corridor with no visible enemies or immediate threats, and the only UI feedback is a healing notification, indicating a lack of active combat or tension."
+frame10-11_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is actively holding a weapon in a combat-oriented environment with visible HUD elements like health, ammo, and a kill feed, indicating ongoing gameplay and engagement."
+frame11-12_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is holding a weapon but appears idle in a static corridor with no visible enemies or immediate action, and the HUD shows no active combat indicators or time pressure, suggesting low engagement."
+frame12-13_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static, dimly lit corridor with no visible enemies or immediate action, and the player’s HUD indicates no active combat (no kill feed, no active timer, no urgent objectives), suggesting a passive exploration or idle state rather than high engagement."
+frame13-14_01,0.25,low,0,high,1,"Score: 0.25
+Label: Low
+Rationale: The scene shows a static, empty corridor with no visible enemies, teammates, or action, and the player is holding a weapon but not actively engaging in combat or movement, indicating low engagement."
+frame14-15_01,0.25,low,0,high,1,"Score: 0.25
+Label: Low
+Rationale: The scene shows a player in a dim, empty stone corridor with no visible enemies or action, and the HUD indicates no immediate threats or objectives, suggesting a passive, idle state rather than active engagement."
+frame15-16_01,0.25,low,0,high,1,"Score: 0.25
+Label: Low
+Rationale: The player is in a static, dimly lit corridor with no visible enemies, teammates, or immediate action, and the HUD shows no active combat indicators (like a kill feed or active timer), suggesting a passive, exploratory or idle state rather than high engagement."
+frame16-17_01,0.2,low,0,high,1,"Score: 0.2
+Label: Low
+Rationale: The scene shows a static, dimly lit environment with no visible enemies, action, or dynamic events, and the player is holding a weapon but not engaged in combat or movement, indicating low engagement."
+frame17-18_01,0.2,low,0,high,1,"Score: 0.2
+Label: Low
+Rationale: The player is in a static, idle position on a staircase in a dimly lit, non-combat environment with no visible enemies or action, and the HUD shows no immediate threats or objectives, indicating low engagement."
+frame18-19_01,0.25,low,0,high,1,"Score: 0.25
+Label: Low
+Rationale: The player is in a static, dimly lit indoor environment with no visible enemies, teammates, or active combat, and the HUD shows no immediate threats or objectives, indicating a passive, idle state."
+frame19-20_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is stationary in a dim, empty corridor with no visible enemies or action, and the HUD shows no immediate threats or objectives, indicating a passive, idle state."
+frame20-21_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is in a static, dimly lit corridor with no visible enemies or immediate action, and the HUD shows no active combat indicators (like a kill feed or active timer), suggesting a passive, exploratory state rather than high engagement."
+frame21-22_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static, idle moment with no visible combat, enemies, or dynamic action; the player is simply looking at a closed door in a dimly lit environment, with minimal HUD feedback beyond health and ammo, indicating low engagement."
+frame22-23_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a deserted, non-combat environment with no visible enemies or active gameplay, and the HUD indicates no immediate threats or objectives, suggesting passive exploration rather than engaged combat."
+frame23-24_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is standing still in front of a door in a static, uneventful environment with no visible enemies, combat, or dynamic action, and the HUD shows no immediate threats or objectives, indicating low engagement."
+frame24-25_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is in a static, narrow corridor with no visible enemies or immediate action, and the HUD shows no active combat indicators (like a timer or kill feed), suggesting a passive or idle state rather than high engagement."
+frame25-26_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is standing still in a doorway with no visible enemies or immediate action, and the HUD shows no active combat indicators (like a kill feed or active timer), suggesting a passive, idle state rather than high engagement."
+frame26-27_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is actively aiming a weapon at an enemy teammate in a combat scenario, with visible HUD elements like health, ammo, and a kill feed, indicating active, high-stakes gameplay."
+frame27-28_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is actively aiming a weapon in a combat-oriented environment with visible HUD elements (health, ammo, score) and a kill feed, indicating ongoing gameplay and engagement."
+frame28-29_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a stone corridor with no visible enemies, action, or dynamic events, and the HUD indicates no immediate threats or objectives, suggesting a passive or idle state."
+frame29-30_01,0.2,low,0,high,1,"Score: 0.2
+Label: Low
+Rationale: The scene shows a static, empty environment with no visible enemies, teammates, or action, and the HUD indicates no immediate threats or objectives, suggesting a passive, idle state."
+frame30-31_01,0.2,low,0,high,1,"Score: 0.2
+Label: Low
+Rationale: The scene shows a static, empty environment with no visible enemies, teammates, or action, and the HUD indicates no immediate threats or objectives, suggesting a passive, idle state."
+frame31-32_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is stationary in a static environment with no visible combat, enemies, or dynamic action, and the HUD shows no immediate threats or objectives, indicating passive engagement."
+frame32-33_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is in a static, empty environment with no visible enemies, teammates, or active combat, and the HUD shows no immediate threats or objectives, indicating a passive, idle state."
+frame33-34_01,0.15,low,0,high,1,"Score: 0.15
+Label: Low
+Rationale: The frame shows a scoreboard overlay with no active combat, no visible enemies or teammates in motion, and a static environment, indicating a pause or idle state rather than active gameplay."
+frame34-35_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is actively holding a weapon and positioned near a fallen enemy in a combat environment, with visible HUD elements and player names indicating multiplayer interaction, suggesting ongoing engagement in a competitive or action-oriented scenario."
+frame35-36_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a quiet, empty corridor with no visible enemies, teammates, or active combat, and the HUD indicates no immediate threats or objectives, suggesting passive exploration rather than engaged gameplay."
+frame36-37_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a quiet, empty environment with no visible enemies, teammates, or active combat, and the HUD indicates no immediate time pressure or dynamic gameplay events, suggesting low engagement."
+frame37-38_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a quiet, empty environment with no visible enemies, teammates, or dynamic action, and the HUD indicates no immediate threats or objectives, suggesting passive exploration rather than active engagement."
+frame38-39_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static, empty environment with no visible enemies or immediate action, and the HUD indicates no active combat or time pressure, suggesting a passive or idle state."
+frame39-40_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The player is actively aiming a weapon in a combat-focused environment with another player visible in motion, suggesting ongoing gameplay and potential conflict, which indicates high engagement."
+frame40-41_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static, empty environment with no visible combat, enemies, or dynamic action, and the player is holding a weapon without any immediate threat or objective, indicating low engagement."
+frame41-42_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static, idle moment in a desert-like map with no visible enemies, no active combat, and minimal HUD feedback beyond basic ammo and health, indicating low engagement."
+frame42-43_01,0.2,low,0,high,1,"Score: 0.2
+Label: Low
+Rationale: The player is in a static, idle position with no visible enemies, combat, or dynamic action, and the HUD shows no active gameplay indicators beyond a chat message and a server notice, suggesting low engagement."
+frame43-44_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is stationary behind a crate with no visible enemies or active combat, and the HUD shows a timer and chat messages rather than dynamic gameplay feedback, indicating a passive or idle state."
+frame44-45_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The player is actively aiming a weapon down a corridor with visible enemy players ahead, indicating combat anticipation, and the HUD shows health, ammo, and a timer, suggesting an ongoing, tense gameplay situation."
+frame45-46_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The player is actively aiming down sights at an enemy in a combat scenario, with a visible timer (0:47) and health/ammunition HUD elements, indicating an ongoing, time-sensitive, and tense gameplay moment."
+frame46-47_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The player is actively moving through a dimly lit, tactical environment with visible teammates and enemies, and the HUD shows a timer and health, indicating ongoing gameplay with time pressure and active participation."
+frame47-48_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The player is in a first-person shooter with visible weapons, a health/armor HUD, a timer, and an active environment featuring a teammate and a distant enemy, indicating active combat and engagement."
+frame48-49_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a deserted, empty environment with no visible enemies, teammates, or dynamic action, and the HUD indicates no immediate threats or objectives, suggesting passive exploration rather than active engagement."
+frame49-50_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The player is actively following a teammate through a narrow, tense corridor in a first-person shooter, with a weapon ready and visible HUD elements indicating active gameplay, suggesting engagement in a dynamic, potentially combat-oriented situation."
+frame50-51_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a desert-like map with no visible enemies, no active combat, and minimal HUD indicators beyond basic health and ammo, suggesting a passive or idle moment rather than high engagement."
+frame51-52_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a desert map with no visible enemies, teammates, or active combat, and the HUD indicates no immediate threats or objectives, suggesting a passive or idle state."
+frame52-53_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a deserted map area with no visible enemies, teammates, or active combat, and the HUD indicates no immediate threats or objectives, suggesting a passive or idle state."
+frame53-54_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a deserted, non-combat environment with no visible enemies, teammates, or dynamic action, and the HUD indicates no immediate threats or objectives, suggesting passive exploration rather than active engagement."
+frame54-55_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static, empty map with no visible enemies or active combat, and the player is holding a weapon but not engaging in any action, indicating low engagement."
+frame55-56_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a desert-like map with no visible enemies, action, or dynamic events, and the HUD indicates no immediate threats or objectives, suggesting passive exploration rather than active engagement."
+frame56-57_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static first-person view in a deserted, non-combat environment with no visible enemies, teammates, or dynamic action, and the HUD indicates no immediate threats or objectives, suggesting passive exploration rather than active engagement."
+frame57-58_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is actively aiming a weapon at an enemy in a combat scenario, with visible HUD elements like ammo count and health, indicating active, high-stakes gameplay."
+frame58-59_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The player is actively moving through a combat environment with teammates, holding a weapon, and navigating a tactical setting, indicating active participation and engagement in gameplay."

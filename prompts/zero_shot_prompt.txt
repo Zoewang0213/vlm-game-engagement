@@ -1,0 +1,34 @@
+Task: Predict whether these game video frames
+indicate High or Low player engagement.
+
+You are given 16 frames from a 1-second gameplay
+window. Analyze the sequence as a whole.
+
+Engagement definition:
+- High engagement: The player is actively involved
+  in intense, meaningful, or challenging gameplay.
+  Visual signs include active combat, time pressure,
+  dynamic action, visible feedback from the game,
+  interaction with other players, or tense
+  situations.
+- Low engagement: The player is in a passive, idle,
+  or low-intensity state. Visual signs include
+  menus/pause screens, empty environments, lack of
+  action or feedback, repetitive/uneventful scenes,
+  or the player appearing disengaged from core
+  gameplay.
+
+Look at the frames carefully and consider:
+- What is happening in the scene? (action intensity,
+  events)
+- What HUD/UI elements are visible? (health, score,
+  timer, kill feed, objectives)
+- Are there other players or entities? (teammates,
+  enemies, NPCs)
+- Does the scene suggest tension, challenge, or
+  reward?
+
+OUTPUT (strict format):
+Label: [High/Low]
+Rationale: [One sentence explaining the key visual
+evidence for your prediction]

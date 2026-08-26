@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,rationale,raw_response
+frame00-01_01,0.85,high,1,high,1,"The frame shows active gameplay with a visible crosshair, health and ammo indicators, and a dynamic environment, suggesting engagement through challenge, feedback, and player control according to Flow Theory and GameFlow.","Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible crosshair, health and ammo indicators, and a dynamic environment, suggesting engagement through challenge, feedback, and player control according to Flow Theory and GameFlow."
+frame01-02_01,0.85,high,1,high,1,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame02-03_01,0.85,high,1,high,1,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame03-04_01,0.85,high,1,high,1,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is in motion, aiming, and the environment is immersive, indicating engagement across flow theory, gameflow, and MDA framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is in motion, aiming, and the environment is immersive, indicating engagement across flow theory, gameflow, and MDA framework dimensions."
+frame04-05_01,0.85,high,1,high,1,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving through the environment, indicating engagement and immersion.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving through the environment, indicating engagement and immersion."
+frame05-06_01,0.85,high,1,high,1,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is in motion, aiming, and the environment is immersive, supporting engagement according to Flow Theory and GameFlow.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is in motion, aiming, and the environment is immersive, supporting engagement according to Flow Theory and GameFlow."
+frame06-07_01,0.75,high,1,high,1,"The frame shows active gameplay with a crosshair on target, visible health and ammo indicators, and a timer, suggesting engagement through challenge, feedback, and player control according to Flow Theory and GameFlow.","Score: 0.75
+Label: High
+Rationale: The frame shows active gameplay with a crosshair on target, visible health and ammo indicators, and a timer, suggesting engagement through challenge, feedback, and player control according to Flow Theory and GameFlow."
+frame07-08_01,0.9,high,1,high,1,"The frame shows active combat with visible health, score, and time indicators, suggesting challenge and feedback. The player is aiming and using a weapon, indicating engagement and immersion, aligning with multiple engagement theories.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible health, score, and time indicators, suggesting challenge and feedback. The player is aiming and using a weapon, indicating engagement and immersion, aligning with multiple engagement theories."
+frame08-09_01,0.85,high,1,high,1,"The frame shows active combat with a weapon in use, visible health and ammo indicators, and a dynamic environment, indicating engagement through challenge, feedback, and player control as per Flow Theory and GameFlow.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a weapon in use, visible health and ammo indicators, and a dynamic environment, indicating engagement through challenge, feedback, and player control as per Flow Theory and GameFlow."
+frame09-10_01,0.85,high,1,low,0,"The frame shows active gameplay with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is in motion, aiming at a target, indicating engagement and immersion. These elements align with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is in motion, aiming at a target, indicating engagement and immersion. These elements align with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame10-11_01,0.85,high,1,low,0,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame11-12_01,0.85,high,1,low,0,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is in motion, aiming, and there is a sense of immersion with a dynamic environment, indicating engagement across multiple theories.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is in motion, aiming, and there is a sense of immersion with a dynamic environment, indicating engagement across multiple theories."
+frame12-13_01,0.85,high,1,low,0,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is in motion, aiming, and there is a sense of immersion with a dynamic environment, indicating engagement across multiple theories.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is in motion, aiming, and there is a sense of immersion with a dynamic environment, indicating engagement across multiple theories."
+frame13-14_01,0.8,high,1,low,0,"The frame shows active combat with visible feedback (damage numbers, health status), player control (weapon in use), and a dynamic environment, indicating engagement across multiple theories.","Score: 0.8
+Label: High
+Rationale: The frame shows active combat with visible feedback (damage numbers, health status), player control (weapon in use), and a dynamic environment, indicating engagement across multiple theories."
+frame14-15_01,0.8,high,1,low,0,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is in motion, aiming at a target, and there is a sense of immersion with a dynamic environment, indicating engagement across multiple theories.","Score: 0.8
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is in motion, aiming at a target, and there is a sense of immersion with a dynamic environment, indicating engagement across multiple theories."
+frame15-16_01,0.85,high,1,low,0,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame16-17_01,0.9,high,1,low,0,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame17-18_01,0.9,high,1,low,0,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame18-19_01,0.85,high,1,low,0,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame19-20_01,0.85,high,1,low,0,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is in motion, aiming at an enemy, indicating engagement and immersion. There are also indicators of other players, supporting social presence.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is in motion, aiming at an enemy, indicating engagement and immersion. There are also indicators of other players, supporting social presence."
+frame20-21_01,0.85,high,1,low,0,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is in motion, aiming, and there are other players involved, indicating engagement across flow theory, gameflow, and MDA framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is in motion, aiming, and there are other players involved, indicating engagement across flow theory, gameflow, and MDA framework dimensions."
+frame21-22_01,0.85,high,1,low,0,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving through the environment, indicating engagement and immersion.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving through the environment, indicating engagement and immersion."
+frame22-23_01,0.85,high,1,low,0,"The frame shows active gameplay with a crosshair on target, health and ammo indicators, and a timer, indicating challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a crosshair on target, health and ammo indicators, and a timer, indicating challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame23-24_01,0.85,high,1,low,0,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame24-25_01,0.9,high,1,low,0,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame25-26_01,0.9,high,1,low,0,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame26-27_01,0.9,high,1,high,1,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The presence of other players and dynamic visual effects like explosions indicate engagement across flow theory, gameflow, and MDA framework dimensions.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The presence of other players and dynamic visual effects like explosions indicate engagement across flow theory, gameflow, and MDA framework dimensions."
+frame27-28_01,0.9,high,1,high,1,"The frame shows active combat with a crosshair on a target, visible health and score indicators, and interaction with other players, indicating engagement through challenge, feedback, and social presence.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with a crosshair on a target, visible health and score indicators, and interaction with other players, indicating engagement through challenge, feedback, and social presence."
+frame28-29_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (damage numbers, kill notifications), player control (crosshair on target), and social presence (other players), indicating high engagement across multiple theories.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (damage numbers, kill notifications), player control (crosshair on target), and social presence (other players), indicating high engagement across multiple theories."
+frame29-30_01,0.85,high,1,high,1,"The frame shows active combat with visible feedback (damage numbers, health status), player control (crosshair on target), and social presence (other players indicated), aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible feedback (damage numbers, health status), player control (crosshair on target), and social presence (other players indicated), aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame30-31_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (enemy kill notification, score increase), player control (crosshair on target), and social presence (other player visible), indicating high engagement across multiple theories.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (enemy kill notification, score increase), player control (crosshair on target), and social presence (other player visible), indicating high engagement across multiple theories."
+frame31-32_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (e.g., ""QUAD KILL! +220 XP,"" damage numbers, and kill notifications), indicating engagement through challenge, feedback, and performance indicators, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (e.g., ""QUAD KILL! +220 XP,"" damage numbers, and kill notifications), indicating engagement through challenge, feedback, and performance indicators, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame32-33_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (e.g., ""Quad Kill"" notification, damage numbers), player control (crosshair on target), and a dynamic environment, indicating engagement across multiple theories.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (e.g., ""Quad Kill"" notification, damage numbers), player control (crosshair on target), and a dynamic environment, indicating engagement across multiple theories."
+frame33-34_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (damage numbers, kill notification), player control (aiming and weapon use), and a sense of challenge (score and time pressure), aligning with multiple engagement theories indicating high engagement.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (damage numbers, kill notification), player control (aiming and weapon use), and a sense of challenge (score and time pressure), aligning with multiple engagement theories indicating high engagement."
+frame34-35_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (enemy kill notification, score changes), player control (crosshair on target, weapon in use), and a dynamic environment, indicating engagement across multiple theories.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (enemy kill notification, score changes), player control (crosshair on target, weapon in use), and a dynamic environment, indicating engagement across multiple theories."
+frame35-36_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (enemy kill notification, experience points), player control (weapon equipped), and visual effects (shield refill), indicating engagement across multiple theories.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (enemy kill notification, experience points), player control (weapon equipped), and visual effects (shield refill), indicating engagement across multiple theories."
+frame36-37_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (e.g., ""UNSTOPPABLE! +330 XP"" notification, health bar, and score), indicating engagement through challenge, feedback, and performance indicators, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (e.g., ""UNSTOPPABLE! +330 XP"" notification, health bar, and score), indicating engagement through challenge, feedback, and performance indicators, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame37-38_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (damage numbers, health bar, and score), indicating engagement through challenge, feedback, and sensation. The presence of a timer and other players suggests clear goals and social presence, aligning with multiple engagement theories.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (damage numbers, health bar, and score), indicating engagement through challenge, feedback, and sensation. The presence of a timer and other players suggests clear goals and social presence, aligning with multiple engagement theories."
+frame38-39_01,0.9,high,1,high,1,"The frame shows active combat with a crosshair on a target, a timer indicating time pressure, and health and score indicators, suggesting engagement through challenge, feedback, and player control.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with a crosshair on a target, a timer indicating time pressure, and health and score indicators, suggesting engagement through challenge, feedback, and player control."
+frame39-40_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (damage numbers, health status), time pressure (timer), and multiple players, indicating engagement across challenge, feedback, and social presence dimensions.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (damage numbers, health status), time pressure (timer), and multiple players, indicating engagement across challenge, feedback, and social presence dimensions."
+frame40-41_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (e.g., ""Champion Killer"" notification, damage numbers, and health status), indicating engagement through challenge, skill, and immediate rewards, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (e.g., ""Champion Killer"" notification, damage numbers, and health status), indicating engagement through challenge, skill, and immediate rewards, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame41-42_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (enemy kill notification, score increase), player control (aiming and shooting), and engagement indicators (health, ammo, and experience points), aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (enemy kill notification, score increase), player control (aiming and shooting), and engagement indicators (health, ammo, and experience points), aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame42-43_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (enemy kill notification, score increase), player control (crosshair on target, weapon in use), and a dynamic environment, indicating engagement across multiple theories.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (enemy kill notification, score increase), player control (crosshair on target, weapon in use), and a dynamic environment, indicating engagement across multiple theories."
+frame43-44_01,0.85,high,1,high,1,"The frame shows active combat with visible feedback (e.g., ""PAYBACK! +55 XP"" notification), player control (crosshair on target), and a dynamic environment, indicating engagement across multiple theories, particularly Flow Theory and GameFlow.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible feedback (e.g., ""PAYBACK! +55 XP"" notification), player control (crosshair on target), and a dynamic environment, indicating engagement across multiple theories, particularly Flow Theory and GameFlow."
+frame44-45_01,0.9,high,1,high,1,"The frame shows active combat with visible health, score, and time indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with multiple engagement theories.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible health, score, and time indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with multiple engagement theories."
+frame45-46_01,0.9,high,1,high,1,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting meaningful challenge and immediate feedback. The player is in motion, aiming, and the environment is rich with details, indicating engagement across flow theory, gameflow, and MDA framework dimensions.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting meaningful challenge and immediate feedback. The player is in motion, aiming, and the environment is rich with details, indicating engagement across flow theory, gameflow, and MDA framework dimensions."
+frame46-47_01,0.85,high,1,high,1,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame47-48_01,0.85,high,1,high,1,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame48-49_01,0.9,high,1,high,1,"The frame shows active combat with a visible crosshair on target, health and ammo indicators, and a dynamic environment, indicating engagement through challenge, feedback, and immersion according to Flow Theory and GameFlow.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with a visible crosshair on target, health and ammo indicators, and a dynamic environment, indicating engagement through challenge, feedback, and immersion according to Flow Theory and GameFlow."
+frame49-50_01,0.9,high,1,high,1,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame50-51_01,0.85,high,1,high,1,"The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory and GameFlow.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory and GameFlow."
+frame51-52_01,0.85,high,1,high,1,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame52-53_01,0.9,high,1,high,1,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting meaningful challenge and immediate feedback. The player is in control, aiming, and using a weapon, indicating engagement and immersion.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting meaningful challenge and immediate feedback. The player is in control, aiming, and using a weapon, indicating engagement and immersion."
+frame53-54_01,0.9,high,1,high,1,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge, feedback, and player control, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame54-55_01,0.9,high,1,high,1,"The frame shows active combat with a scoped view on a target, indicating player control and engagement. The health and score indicators provide immediate feedback, and the environment is rich with detail, supporting immersion and challenge-skill balance according to Flow Theory.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with a scoped view on a target, indicating player control and engagement. The health and score indicators provide immediate feedback, and the environment is rich with detail, supporting immersion and challenge-skill balance according to Flow Theory."
+frame55-56_01,0.85,high,1,low,0,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame56-57_01,0.85,high,1,low,0,"The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, score, and ammunition indicators, suggesting challenge and feedback. The player is aiming and moving, indicating engagement and immersion, aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame57-58_01,0.85,high,1,low,0,"The frame shows active combat with visible health, score, and enemy indicators, suggesting meaningful challenge and immediate feedback, aligning with Flow Theory and MDA Framework dimensions for high engagement.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, score, and enemy indicators, suggesting meaningful challenge and immediate feedback, aligning with Flow Theory and MDA Framework dimensions for high engagement."
+frame58-59_01,0.9,high,1,low,0,"The frame shows active combat with visible enemies, health and score indicators, and immediate feedback elements like damage numbers, indicating engagement across multiple theories, particularly Flow Theory and MDA Framework.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible enemies, health and score indicators, and immediate feedback elements like damage numbers, indicating engagement across multiple theories, particularly Flow Theory and MDA Framework."

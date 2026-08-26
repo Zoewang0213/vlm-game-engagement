@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a score indicator, and dynamic action, indicating high player engagement."
+frame01-02_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a health bar, and an objective indicator, suggesting intense gameplay and player engagement."
+frame02-03_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with the player aiming at an enemy, visible health and ammo indicators, and an objective marker, indicating engagement in gameplay."
+frame03-04_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with an enemy in front of the player, visible health and ammo indicators, and objectives on the screen, indicating a challenging and engaging gameplay situation."
+frame04-05_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with a visible enemy being attacked, score feedback (18), and a dynamic environment, indicating intense and meaningful gameplay."
+frame05-06_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with an enemy in close proximity, visible health and score indicators, and dynamic action, indicating high player engagement."
+frame06-07_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with an enemy in close proximity, visible health and ammo indicators, and a dynamic environment, indicating intense gameplay."
+frame07-08_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with a visible enemy target, score feedback, and dynamic action, indicating intense gameplay."
+frame08-09_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with a critical hit, visible health and score indicators, and dynamic action, indicating high player engagement."
+frame09-10_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no immediate action or combat, and the HUD indicates minimal interaction or feedback, suggesting a low-intensity moment."
+frame10-11_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with visible health and score indicators, an objective on the mini-map, and the player is holding a weapon, suggesting engagement in gameplay."
+frame11-12_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with visible weapons and a mini-map indicating objectives, suggesting the player is engaged in a challenging situation."
+frame12-13_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with a visible weapon, health bar, and objective markers, indicating the player is engaged in a challenging situation."
+frame13-14_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a score indicator, and a timer, suggesting intense gameplay and player engagement."
+frame14-15_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible enemies, health and score indicators, and dynamic action, indicating high player engagement."
+frame15-16_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a health bar, and a reload prompt, indicating dynamic action and player engagement."
+frame16-17_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a score update, and a mini-map indicating objectives, suggesting intense and meaningful gameplay."
+frame17-18_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a weapon in hand, and an objective on the mini-map, indicating intense gameplay and player engagement."
+frame18-19_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a dynamic environment, and HUD elements indicating objectives and player status, suggesting intense gameplay."
+frame19-20_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a dynamic environment, and HUD elements indicating objectives and a mini-map, suggesting intense gameplay."
+frame20-21_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a timer, and objectives, indicating intense gameplay and time pressure."
+frame21-22_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a weapon in use, and an objective on the mini-map, indicating intense gameplay and player engagement."
+frame22-23_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a weapon in hand, and an objective on the mini-map, indicating intense gameplay and player engagement."
+frame23-24_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a health bar, and an objective list, indicating intense gameplay and player engagement."
+frame24-25_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a weapon in hand, and an objective on the HUD, indicating intense gameplay and engagement."
+frame25-26_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a weapon in use, and objectives on the HUD, indicating intense gameplay and player engagement."
+frame26-27_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a weapon in hand, and a mini-map with objectives, indicating intense gameplay and engagement."
+frame27-28_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a weapon in hand, and HUD elements indicating objectives and health, suggesting intense gameplay."
+frame28-29_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a scoped weapon aimed forward, and HUD elements indicating objectives and ammo, suggesting intense gameplay."
+frame29-30_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with blood splatters, a visible weapon, and an objective on the mini-map, indicating engagement in a challenging situation."
+frame30-31_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a health bar, and an objective list, indicating intense gameplay and player engagement."
+frame31-32_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a scoped weapon, and HUD elements indicating objectives and a mini-map, suggesting intense gameplay."
+frame32-33_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a health bar, and an objective on the screen, indicating intense gameplay and player engagement."
+frame33-34_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a health warning, and a prompt to interact, indicating intense gameplay and time pressure."
+frame34-35_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with blood splatters, a prompt to ""Fight for Your Life!"", and a visible weapon, indicating intense gameplay and time pressure."
+frame35-36_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a health warning (""FIGHT FOR YOUR LIFE!""), and a prompt to interact, indicating intense gameplay. The environment is dynamic with debris and potential threats, suggesting a high level of engagement."
+frame36-37_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a prompt to ""Fight for Your Life,"" and interaction with other players, indicating intense gameplay."
+frame37-38_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a prompt to ""Hold to Give Up,"" and a timer indicating time pressure, suggesting intense gameplay."
+frame38-39_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a health bar, and a prompt to ""Hold to Give Up,"" indicating a tense and challenging situation. The presence of an enemy and the ""FIGHT FOR YOUR LIFE!"" alert further suggest high engagement."
+frame39-40_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, dynamic action, and a visible objective on the HUD, indicating intense gameplay."
+frame40-41_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a ""Second Wind!"" notification, and a mini-map with objectives, indicating intense gameplay and player engagement."
+frame41-42_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a health bar, and an XP gain, indicating intense gameplay. The objective markers and the ""SECOND WIND!"" notification suggest dynamic action and challenge."
+frame42-43_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a weapon in hand, and a mini-map indicating objectives, suggesting intense gameplay and player engagement."
+frame43-44_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a weapon in hand, and an objective on the mini-map, indicating intense gameplay and player engagement."
+frame44-45_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a weapon in hand, and a dynamic environment, indicating intense gameplay and player engagement."
+frame45-46_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a health bar, and an objective list, indicating intense gameplay and player engagement."
+frame46-47_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a weapon in hand, and an objective on the HUD, indicating intense gameplay and player engagement."
+frame47-48_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with blood splatters, a visible weapon, and an objective on the mini-map, indicating engagement in a challenging situation."
+frame48-49_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with blood splatters, an enemy target in sight, and visible feedback like health and ammunition indicators, suggesting intense gameplay."
+frame49-50_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with blood splatters, a visible enemy target, and a weapon aimed at them, indicating intense gameplay. The HUD displays health, ammo, and objectives, suggesting ongoing engagement and challenge."
+frame50-51_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a scoped weapon aimed at a target, and HUD elements indicating objectives and XP rewards, suggesting intense and meaningful gameplay."
+frame51-52_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a health bar, and an XP gain, indicating intense gameplay. The presence of objectives and a mini-map suggests ongoing engagement and challenge."
+frame52-53_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a health bar, and a score increase, indicating intense gameplay and player engagement."
+frame53-54_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with blood splatters, a visible health bar, and an objective to follow a character, indicating intense gameplay and player engagement."
+frame54-55_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a scoped weapon aimed at a target, and HUD elements indicating score and objectives, suggesting intense gameplay."
+frame55-56_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a health bar, and an XP gain, indicating recent action and engagement. The presence of objectives and a mini-map suggests ongoing gameplay."
+frame56-57_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a health bar, and an XP gain, indicating recent player action and engagement. The presence of objectives and a mini-map suggests ongoing gameplay."
+frame57-58_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatter, a score increment, and an objective list, indicating intense gameplay and player engagement."
+frame58-59_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible blood splatters, a scoped weapon aimed at an enemy, and HUD elements indicating score and objectives, suggesting intense and meaningful gameplay."

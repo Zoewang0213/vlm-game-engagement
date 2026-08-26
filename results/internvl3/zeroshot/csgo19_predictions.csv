@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player holding a weapon with a timer and score visible, indicating active gameplay and time pressure, suggesting high engagement."
+frame01-02_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player holding a weapon with a timer and score visible, indicating active gameplay and time pressure, suggesting high engagement."
+frame02-03_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player holding a weapon with a timer and score visible, indicating active gameplay and time pressure, suggesting high engagement."
+frame03-04_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player holding a weapon with a timer and enemy count on the HUD, indicating active gameplay and time pressure, suggesting high engagement."
+frame04-05_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player in a combat situation with a visible timer, score, and health indicators, suggesting active gameplay and time pressure."
+frame05-06_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player holding a weapon with a timer and score visible, indicating active gameplay and time pressure, suggesting high engagement."
+frame06-07_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The scene shows a player in a combat situation with a timer, score, and health indicators visible, suggesting active gameplay and time pressure."
+frame07-08_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with an enemy in sight, a timer indicating time pressure, and visible health and ammo indicators, suggesting intense and challenging gameplay."
+frame08-09_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with an enemy target, a timer indicating time pressure, and visible health and ammo indicators, suggesting intense and meaningful gameplay."
+frame09-10_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating time pressure, visible enemies, and the player holding a weapon, suggesting engagement in a combat situation."
+frame10-11_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows the player holding a weapon with a timer and score visible, indicating active gameplay and time pressure, suggesting engagement in a potentially challenging situation."
+frame11-12_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player holding a weapon with a timer and score visible, indicating active gameplay. There are also indicators of enemies and objectives, suggesting a tense and challenging situation."
+frame12-13_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with a timer, visible enemies, and a bloodstain, indicating recent action and engagement."
+frame13-14_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer, score, and health feedback, indicating ongoing action and engagement."
+frame14-15_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with an enemy downed nearby, a timer indicating time pressure, and a prompt to use a healthshot, suggesting ongoing engagement and challenge."
+frame15-16_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player lying down with a prompt to use a healthshot, indicating recent action. The HUD displays a timer, score, and ammo count, suggesting active gameplay. There are also visible items and enemies, adding to the sense of engagement."
+frame16-17_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player in a combat situation with a timer, score, and health feedback, indicating active engagement and time pressure."
+frame17-18_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a countdown timer, score updates, and a prompt to use a healthshot, indicating active gameplay and time pressure. There are also indicators of enemies nearby, suggesting engagement in a potentially challenging situation."
+frame18-19_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a calm environment with no visible combat or immediate threats, and the player is near water with minimal action or interaction, indicating a low-intensity state."
+frame19-20_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a calm environment with no visible combat or interaction with other players, and the player is near water with minimal action or urgency indicated by the HUD elements."
+frame20-21_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with a fallen enemy, a healthshot prompt, and a timer indicating time pressure, suggesting intense gameplay."
+frame21-22_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player in a combat situation with a healthshot available, indicating recent or ongoing action. The timer and score are visible, adding to the sense of urgency and engagement."
+frame22-23_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a calm environment with no visible combat or dynamic action, and the prompt to use a healthshot suggests a moment of recovery rather than active engagement."
+frame23-24_01,0.2,low,0,high,1,"Score: 0.2
+Label: Low
+Rationale: The player appears to be lying down in a calm environment with no visible combat or dynamic action, indicating a low-intensity state."
+frame24-25_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or dynamic action, and the player appears to be in a passive state with minimal interaction or feedback from the game."
+frame25-26_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating time pressure, visible enemies, and the player holding a weapon, suggesting engagement in a combat situation."
+frame26-27_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player in a combat situation with a visible timer, score, and health indicators, suggesting active gameplay and time pressure."
+frame27-28_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a countdown timer, indicating time pressure, and the presence of enemies and health/weapon HUD elements suggest active gameplay and engagement."
+frame28-29_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a countdown timer, active engagement with enemies, and visible health and score indicators, suggesting a tense and challenging situation."
+frame29-30_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating time pressure, visible score updates, and the player holding a weapon, suggesting engagement in a potentially challenging situation."
+frame30-31_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a countdown timer, an objective marker, and the player holding a weapon, indicating active gameplay and time pressure."
+frame31-32_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a rocky environment with no visible enemies or immediate action, and the timer indicates a countdown, suggesting a low-intensity moment."
+frame32-33_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is accessing an in-game menu (Tablet Automated Delivery) with no visible combat or dynamic action, indicating a pause in gameplay."
+frame33-34_01,0.6,low,0,high,1,"Score: 0.6
+Label: Low
+Rationale: The scene shows the player accessing a map with a timer and an alert for an incoming delivery, indicating a planning or waiting phase rather than active gameplay."
+frame34-35_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows the player accessing a map interface, indicating a pause or planning phase rather than active gameplay. There is no visible combat, time pressure, or dynamic action, suggesting low engagement."
+frame35-36_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows a countdown timer, enemy count, and health status, indicating active gameplay with time pressure and potential combat."
+frame36-37_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows a player in a dynamic environment with a timer indicating time pressure, and the player is holding a weapon, suggesting active gameplay and potential engagement in a challenge."
+frame37-38_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows a player holding a weapon with a timer and score visible, indicating active gameplay and time pressure, suggesting high engagement."
+frame38-39_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows a countdown timer, an enemy count, and the player holding a weapon, indicating active gameplay and potential combat, which suggests high engagement."
+frame39-40_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows a countdown timer, an enemy count, and the player holding a weapon, indicating active gameplay with time pressure and potential combat."
+frame40-41_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows a countdown timer, indicating time pressure, and the player is holding a weapon, suggesting readiness for combat. There are also HUD elements like health and ammo count, implying active gameplay."
+frame41-42_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows a countdown timer, an enemy count, and the player holding a weapon, indicating active gameplay and time pressure."
+frame42-43_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows a countdown timer, indicating time pressure, and the player is holding a weapon, suggesting readiness for combat. There are also indicators of enemies and health status, contributing to a sense of engagement."
+frame43-44_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a calm environment with no visible combat or immediate action, and the timer indicates a short countdown, suggesting a low-intensity moment."
+frame44-45_01,0.2,low,0,low,0,"Score: 0.2
+Label: Low
+Rationale: The scene shows a calm environment with no visible combat or dynamic action, and the timer indicates a very short time left, suggesting a low-intensity moment."
+frame45-46_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows the player in a passive position with no visible combat or interaction, and the timer is at 00:00, indicating no active gameplay or time pressure."
+frame46-47_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively calm environment with no visible combat or immediate threats, and the HUD indicates no active engagement or interaction with other players."
+frame47-48_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively calm environment with no visible combat or immediate threats, and the player appears to be in a stationary position with minimal action or interaction."
+frame48-49_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows a relatively calm environment with no immediate signs of combat or active engagement, and the player is holding a weapon but not in a combat situation. The HUD indicates some objectives and health status, but there is no visible interaction with enemies or other players."
+frame49-50_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively calm environment with no visible combat or immediate threats, and the HUD indicates no active engagement or interaction with other players."
+frame50-51_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively calm environment with no immediate signs of combat or interaction with other players, indicating a low-intensity state."
+frame51-52_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no visible enemies or immediate action, indicating a low-intensity state. The HUD elements suggest the player has health and money, but there is no sign of active combat or time pressure."
+frame52-53_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows the player in a relatively calm environment with no immediate signs of combat or interaction with enemies, and the HUD indicates a lack of active engagement or time pressure."
+frame53-54_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is viewing a map, indicating a pause or planning phase, with no visible combat or dynamic action occurring."
+frame54-55_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is viewing a map with no immediate action or combat visible, indicating a passive state. The HUD shows health and money, but there is no sign of active engagement or dynamic gameplay."
+frame55-56_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is viewing a map with alerts, indicating a planning or navigation phase rather than active gameplay, with no immediate action or combat visible."
+frame56-57_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is viewing a map with alerts, indicating a planning or strategizing phase rather than active gameplay, with no visible combat or dynamic action."
+frame57-58_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is viewing a map with alerts, indicating a planning or strategizing phase rather than active gameplay, with no visible combat or dynamic action."
+frame58-59_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a calm environment with no visible combat or immediate threats, and the player appears to be in a stationary position with minimal action or interaction."

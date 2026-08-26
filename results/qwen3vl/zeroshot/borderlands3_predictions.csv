@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a visible enemy health bar, a weapon in the player’s hands, and mission objectives indicating ongoing gameplay, all signs of high engagement."
+frame01-02_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The player is actively navigating a dynamic environment with visible objectives (Children of the Vault, Kill COV Enemies, Follow Claptrap) and is holding a weapon, indicating active participation in gameplay rather than passive observation."
+frame02-03_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is actively aiming a weapon at an enemy labeled ""Psycho"" with a visible health bar, indicating direct combat engagement, and the mission objective ""Children of the Vault"" is active, suggesting ongoing gameplay with clear goals and stakes."
+frame03-04_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is actively engaged in combat, targeting a visible enemy (Psycho) with a weapon, and the HUD shows active objectives (“Children of the Vault,” “Kill COV enemies,” “Follow Claptrap”), indicating dynamic gameplay and immediate goals."
+frame04-05_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The player is actively engaged in combat with a visible enemy (Psycho) in a dynamic, action-oriented scene, indicated by the weapon in hand, health bar, and objective text, all signaling intense gameplay."
+frame05-06_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a visible enemy (Psycho) being engaged, a health bar, weapon in hand, and mission objectives (Children of the Vault) displayed, indicating intense, meaningful gameplay."
+frame06-07_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The player is actively engaged in combat with an enemy (a ""Psycho"" marked with a red health bar), as indicated by the weapon in the foreground and the enemy’s dynamic pose, suggesting intense, real-time action. The HUD shows active objectives (""Children of the Vault,"" ""Kill COV enemies,"" ""Follow Claptrap"") and player stats, reinforcing ongoing gameplay. The scene is not idle or passive, but rather a moment of high tension and challenge."
+frame07-08_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active first-person combat with an enemy (Psycho) in close range, visible weapon aiming, a health bar, a kill counter (18), and an active objective (""Children of the Vault""), all indicating intense, meaningful gameplay."
+frame08-09_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows intense combat with a ""CRITICAL!"" notification, active weapon use, visible enemy presence, and active objectives (""Kill COV enemies""), all indicating high player engagement."
+frame09-10_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is in a static, idle moment with no visible enemies, no active combat, and no urgent objectives being pursued, despite the presence of mission markers — indicating low engagement."
+frame10-11_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is standing still in a non-combat situation with no visible enemies or immediate threats, and the only UI element is a reload prompt, indicating a passive, idle moment rather than active engagement."
+frame11-12_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is in a static, idle position with no visible enemies or immediate threats, and the HUD shows no active combat indicators (like a timer or kill feed), suggesting a low-intensity, exploratory or transitional moment rather than active engagement."
+frame12-13_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is actively engaged in combat, as shown by the weapon in hand, visible damage effects, and active objectives (“Kill COV enemies,” “Follow Claptrap”) on the HUD, indicating a dynamic and challenging gameplay moment."
+frame13-14_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with an enemy (Fanatic) targeted, visible health and ammo indicators, and mission objectives (Children of the Vault) displayed, indicating the player is immersed in dynamic, goal-oriented gameplay."
+frame14-15_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with an enemy target highlighted, visible health and ammo indicators, and mission objectives (e.g., ""Kill CCV enemies""), all indicating intense, meaningful gameplay."
+frame15-16_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with an enemy health bar visible, a reload prompt, and mission objectives (“Children of the Vault”) indicating ongoing gameplay, suggesting high player engagement."
+frame16-17_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a targeting reticle on an enemy labeled ""Fanatic,"" and mission objectives (""Children of the Vault"") indicating ongoing gameplay challenges, all signs of high player engagement."
+frame17-18_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a visible enemy health bar, blood splatter indicating recent gunfire, and mission objectives (kill COV enemies, follow Claptrap) suggesting ongoing gameplay challenges, all pointing to high player engagement."
+frame18-19_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a health bar, an objective tracker (""Children of the Vault""), and a weapon in hand, all indicating intense, ongoing gameplay."
+frame19-20_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with visible enemy health bars, blood splatter indicating recent gunfire, a weapon in hand, and active objectives on-screen, all pointing to intense, high-engagement gameplay."
+frame20-21_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and active objectives (“Kill COV enemies”, “Follow Claptrap”) on the HUD, indicating intense, meaningful gameplay."
+frame21-22_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and an active objective (“Children of the Vault”) with kill goals, indicating intense, meaningful gameplay."
+frame22-23_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with blood splatter, a weapon in hand, visible objectives (""Kill COV enemies""), and a health/weapon HUD, all indicating intense, meaningful gameplay."
+frame23-24_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and active objectives (“Kill COV enemies,” “Follow Claptrap”) on the HUD, indicating intense, meaningful gameplay."
+frame24-25_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and active objectives (“Kill COV enemies”, “Follow Claptrap”) in the HUD, indicating the player is immersed in intense, meaningful gameplay."
+frame25-26_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with blood splatter, a weapon aimed, and mission objectives (""Kill COV enemies"", ""Follow Claptrap"") indicating ongoing gameplay challenges and player agency."
+frame26-27_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with blood splatter, a weapon in hand, and active objectives (“Kill COV enemies,” “Follow Claptrap”) visible in the HUD, indicating intense, meaningful gameplay."
+frame27-28_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon aimed forward, and active objectives (“Kill COV enemies”, “Follow Claptrap”) in the HUD, indicating the player is engaged in dynamic, mission-driven gameplay."
+frame28-29_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon aimed forward, and an active objective (“Children of the Vault”) with enemy targets (“Kill COV enemies”), indicating intense, meaningful gameplay."
+frame29-30_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and active objectives (“Kill COV enemies,” “Follow Claptrap”) in the HUD, indicating the player is immersed in dynamic, challenging gameplay."
+frame30-31_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and active objectives (“Kill COV enemies”, “Follow Claptrap”) in the HUD, indicating intense, meaningful gameplay."
+frame31-32_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with blood splatter, a weapon aimed, and active objectives (“Kill COV enemies”, “Follow Claptrap”) visible in the UI, indicating intense, meaningful gameplay."
+frame32-33_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with blood splatter, a visible weapon (pistol) with ammo count, an objective HUD (""Children of the Vault""), and a character (Beastmaster) in a dynamic, action-oriented environment, all indicating high player engagement."
+frame33-34_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows intense combat with blood splatter, a ""FIGHT FOR YOUR LIFE!"" health warning, and a visible enemy character, indicating high tension and active player engagement in a challenging situation."
+frame34-35_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows intense combat with a large enemy, blood splatter indicating recent violence, a ""FIGHT FOR YOUR LIFE!"" prompt with a timer, and a visible weapon and ammo count, all signaling high tension and active player engagement."
+frame35-36_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows intense combat with blood splatter, a ""FIGHT FOR YOUR LIFE!"" alert, and a weapon in hand, indicating high action and player urgency, which are strong indicators of high engagement."
+frame36-37_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with visible enemy health bars, a “FIGHT FOR YOUR LIFE!” alert, blood splatter effects, and a weapon aimed at an enemy, all indicating intense, high-stakes gameplay."
+frame37-38_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with visible enemy indicators, a “FIGHT FOR YOUR LIFE!” alert, blood splatter effects, and a weapon in hand, all indicating intense, high-stakes gameplay."
+frame38-39_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a visible enemy, a ""FIGHT FOR YOUR LIFE!"" alert, blood splatter effects, and a weapon in the player's hands, all indicating intense, high-stakes gameplay."
+frame39-40_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a weapon firing, visible enemy targets, a ""SECOND WIND!"" power-up notification, and active objectives (""Children of the Vault""), all indicating intense, meaningful gameplay."
+frame40-41_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a “SECOND WIND!” power-up notification, visible enemy targets, a reload prompt, and mission objectives, all indicating intense, meaningful gameplay."
+frame41-42_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a ""SECOND WIND!"" power-up notification, visible blood splatter indicating recent gunfire, an active objective (""Kill COV enemies""), and a weapon in hand, all signaling intense, dynamic gameplay."
+frame42-43_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and an active objective (“Children of the Vault”) with kill targets, indicating intense, meaningful gameplay."
+frame43-44_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and active mission objectives (“Kill COV enemies”), indicating intense, meaningful gameplay."
+frame44-45_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and active objectives (“Children of the Vault”) indicating ongoing gameplay, suggesting high player engagement."
+frame45-46_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and active mission objectives (“Children of the Vault”) displayed on the HUD, indicating the player is immersed in intense, meaningful gameplay."
+frame46-47_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and active objectives (“Kill COV enemies,” “Follow Claptrap”) on the HUD, indicating intense, meaningful gameplay."
+frame47-48_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon in hand, and active objectives (“Kill COV enemies”, “Follow Claptrap”) on the HUD, indicating the player is immersed in dynamic, challenging gameplay."
+frame48-49_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible enemy health bars, blood splatter indicating recent gunfire, and active objectives (“Kill COV enemies”, “Follow Claptrap”) in the HUD, all pointing to intense, meaningful gameplay."
+frame49-50_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with visible enemy targeting, blood splatter indicating recent gunfire, a health bar, and mission objectives, all signs of intense, meaningful gameplay."
+frame50-51_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a weapon aimed at an enemy, and active objectives (“Kill COV enemies”) on the HUD, indicating intense, meaningful gameplay."
+frame51-52_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with blood splatter, a weapon in hand, visible health and XP indicators, and active mission objectives, all suggesting intense, meaningful gameplay."
+frame52-53_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with blood splatter, a weapon in hand, visible health and XP indicators, and an active mission objective (""Children of the Vault""), all signaling intense, meaningful gameplay."
+frame53-54_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible enemy health bars, blood splatter indicating recent gunfire, and mission objectives (Children of the Vault) demanding player action, all pointing to high engagement."
+frame54-55_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with visible enemy health bars, blood splatter indicating recent gunfire, and active objectives (kill COV enemies, follow Claptrap), all signaling high player engagement in a dynamic, action-packed scenario."
+frame55-56_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with blood splatter, a weapon aimed forward, visible enemy objectives (“Kill COV enemies”), and XP gain feedback, all indicating intense, meaningful gameplay."
+frame56-57_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatter, a ""CRITICAL"" hit indicator, and an objective to ""Kill COV enemies,"" suggesting intense gameplay. The player is wielding a weapon and has a health bar and level indicator, indicating active participation in a challenging scenario."
+frame57-58_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with blood splatter, a weapon in hand, visible health and level indicators, and mission objectives (Children of the Vault), all suggesting intense, meaningful gameplay."
+frame58-59_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a visible enemy health bar, blood splatter indicating recent gunfire, a mission objective (""Children of the Vault""), and the player’s weapon aimed and ready, all signaling intense, meaningful gameplay."

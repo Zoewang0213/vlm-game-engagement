@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.6,low,0,high,1,"Score: 0.6
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or interaction with other players, indicating a low-intensity state."
+frame01-02_01,0.2,low,0,high,1,"Score: 0.2
+Label: Low
+Rationale: The scene shows an empty environment with no visible action, feedback, or interaction, indicating a lack of player engagement."
+frame02-03_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no visible enemies or immediate action, and the HUD elements suggest a lack of dynamic gameplay or interaction."
+frame03-04_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with an explosion, visible HUD elements indicating player status, and dynamic action suggesting a tense and challenging situation."
+frame04-05_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows an empty environment with no visible action, combat, or interaction with other players, indicating a low-intensity state."
+frame05-06_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows an empty environment with no visible action, combat, or interaction with other players, indicating a low-intensity state."
+frame06-07_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible combat, other players, or dynamic action, indicating a low-intensity state."
+frame07-08_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty corridor with no immediate action or interaction, and the HUD elements indicate no active combat or time pressure."
+frame08-09_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with an enemy in sight, visible health and ammo indicators, and a kill feed, indicating ongoing engagement and challenge."
+frame09-10_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a player holding a weapon, visible health feedback (""Healed +5 hp""), and an enemy indicator, suggesting engagement in a combat situation."
+frame10-11_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and appears to be in a combat situation with visible HUD elements like health and ammo, indicating active gameplay."
+frame11-12_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and appears to be in a combat situation with visible enemies and a score display, indicating active engagement and tension."
+frame12-13_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no immediate action or interaction, and the HUD elements indicate minimal activity or feedback."
+frame13-14_01,0.2,low,0,high,1,"Score: 0.2
+Label: Low
+Rationale: The scene shows an empty corridor with no visible action, combat, or interaction with other players, indicating a low-intensity state."
+frame14-15_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a dimly lit, empty corridor with no visible action, combat, or interaction with other players, indicating a low-intensity state."
+frame15-16_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a quiet, uneventful area with minimal HUD elements indicating engagement."
+frame16-17_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a dimly lit room with no visible action or interaction, suggesting a low-intensity or idle state."
+frame17-18_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no visible combat or interaction, indicating a low-intensity state."
+frame18-19_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a dimly lit, empty corridor with no visible action, enemies, or interaction, indicating a low-intensity state."
+frame19-20_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a static environment with no visible combat or dynamic action, and the HUD elements suggest a lack of immediate interaction or tension."
+frame20-21_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a static environment with no visible combat or dynamic action, and minimal HUD elements indicating engagement."
+frame21-22_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible combat or dynamic action, and the player appears to be idle with minimal interaction or feedback from the game."
+frame22-23_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no visible combat or interaction, and the HUD elements suggest a lack of immediate action or feedback."
+frame23-24_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible combat or dynamic action, and the player appears to be idle near a door with minimal interaction or feedback from the game."
+frame24-25_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a static position with no visible combat or dynamic action, and the environment appears empty and uneventful."
+frame25-26_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no visible combat or interaction, indicating a low-intensity state."
+frame26-27_01,0.6,low,0,high,1,"Score: 0.6
+Label: Low
+Rationale: The player appears to be in a low-intensity situation, possibly exploring or waiting, with no visible combat or dynamic action occurring."
+frame27-28_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The player is actively engaged in combat, as indicated by the visible weapon and aiming posture, along with HUD elements showing health and ammunition, suggesting dynamic action and time pressure."
+frame28-29_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and appears to be in a dynamic environment with potential for combat, indicating active engagement."
+frame29-30_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player moving through a relatively empty environment with no visible combat or interaction with other players, indicating a low-intensity moment."
+frame30-31_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or interaction, and the player appears to be in a calm, uneventful area with minimal action or feedback."
+frame31-32_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or interaction, and the player appears to be in a passive state with minimal action or feedback."
+frame32-33_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player moving through a relatively empty environment with no visible combat, enemies, or dynamic action, indicating a low-intensity state."
+frame33-34_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with multiple players engaged in combat, visible kill feed, and a timer indicating ongoing action, suggesting high engagement."
+frame34-35_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a character lying on the ground, suggesting a low-intensity moment with no immediate action or interaction with other players. The environment appears empty and there is no visible feedback or dynamic action."
+frame35-36_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no visible combat or interaction, and the HUD elements suggest a lack of immediate action or feedback."
+frame36-37_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or interaction, and the player appears to be in a passive state with minimal action or feedback."
+frame37-38_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player moving through a static environment with no visible combat, time pressure, or interaction with other players, indicating a low-intensity moment."
+frame38-39_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows an empty environment with no visible combat or interaction, indicating a lack of action or challenge."
+frame39-40_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no immediate action or interaction, indicating a low-intensity state."
+frame40-41_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows an empty environment with no visible combat, other players, or dynamic action, indicating a low-intensity state."
+frame41-42_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or interaction, and the player appears to be in a passive state with minimal action or feedback."
+frame42-43_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible action or interaction, and the player appears to be in a passive state with minimal HUD activity."
+frame43-44_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible combat or dynamic action, and the player appears to be idle near a wooden crate."
+frame44-45_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty corridor with minimal action, and the HUD indicates a teammate's presence but no immediate combat or interaction, suggesting low engagement."
+frame45-46_01,0.6,low,0,high,1,"Score: 0.6
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with minimal action, and the HUD elements suggest a lack of immediate combat or interaction, indicating low engagement."
+frame46-47_01,0.6,low,0,high,1,"Score: 0.6
+Label: Low
+Rationale: The scene shows a player cautiously moving through a corridor with minimal action or interaction, and there are no immediate signs of combat or time pressure."
+frame47-48_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with a player aiming a weapon, a timer indicating time pressure, and visible interaction with the environment, suggesting engagement in a challenging situation."
+frame48-49_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in an empty environment with no visible action, enemies, or interaction, indicating a low-intensity state."
+frame49-50_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The player is in a relatively empty environment with no immediate signs of combat or interaction, suggesting a low-intensity moment."
+frame50-51_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows a relatively empty environment with no immediate action or interaction, and the player appears to be in a calm, uneventful area with no visible combat or time pressure."
+frame51-52_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or interaction, and the player appears to be moving through a static area without immediate challenges or feedback."
+frame52-53_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible combat or dynamic action, and the player appears to be in a calm area without immediate threats or objectives."
+frame53-54_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action, combat, or interaction with other players, indicating a low-intensity state."
+frame54-55_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no immediate action or interaction, suggesting a low-intensity state."
+frame55-56_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible combat or dynamic action, and the player appears to be idle with no immediate interaction or feedback from the game."
+frame56-57_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action, other players, or dynamic elements, indicating a low-intensity state."
+frame57-58_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is actively engaged in combat, as indicated by the character holding a weapon and moving through a dynamic environment, with visible HUD elements like a timer and score, suggesting an ongoing challenge."
+frame58-59_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is actively moving through a dynamic environment with other players visible, suggesting engagement in gameplay. The presence of a weapon and HUD elements like health and ammo also indicate active participation."

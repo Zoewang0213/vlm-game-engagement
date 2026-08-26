@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible kill feed, player names, and scores, indicating intense gameplay and interaction with other players."
+frame01-02_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible kill feed notifications, player scores, and a timer indicating rounds left, suggesting intense gameplay and interaction with other players."
+frame02-03_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible kill feed, player achievements, and a tense victory situation, indicating high engagement."
+frame03-04_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible feedback from the game, such as the ""Terrorists Win"" message and kill feed, indicating recent player interactions and a tense situation."
+frame04-05_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible feedback such as the ""Terrorists Win"" message, kill feed, and player achievements, indicating intense gameplay and interaction with other players."
+frame05-06_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with teammates and enemies, a timer indicating time pressure, visible score updates, and a ""MATCH POINT"" alert, suggesting a tense and challenging situation."
+frame06-07_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with multiple players engaged, visible health and score indicators, a timer, and dynamic action, indicating high player engagement."
+frame07-08_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active gameplay with a kill feed, player stats, and a timer indicating ongoing action, suggesting high engagement."
+frame08-09_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a teammate and an enemy, visible health and score indicators, a timer, and dynamic action, indicating high engagement."
+frame09-10_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with the player aiming a gun at an enemy, visible health and score indicators, and a timer indicating time pressure, suggesting high engagement."
+frame10-11_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a teammate visible, a timer indicating ongoing match time, and visible score updates, suggesting engagement in a multiplayer scenario."
+frame11-12_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with teammates and enemies, a timer indicating time pressure, and visible health and score indicators, suggesting intense gameplay."
+frame12-13_01,0.2,low,0,high,1,"Score: 0.2
+Label: Low
+Rationale: The scene shows the player in the buy menu, indicating a pause in active gameplay, with no signs of combat or dynamic action."
+frame13-14_01,0.2,low,0,low,0,"Score: 0.2
+Label: Low
+Rationale: The scene shows the player in the buy menu, indicating a pause in active gameplay, with no signs of combat or dynamic action."
+frame14-15_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with teammates and enemies, visible health and score indicators, and a timer, suggesting intense gameplay and interaction."
+frame15-16_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with multiple players engaged in a team-based game, visible health and score indicators, and a timer, suggesting intense gameplay and interaction."
+frame16-17_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with multiple teammates engaged in a coordinated attack, a timer indicating time pressure, and visible feedback from the game such as the kill feed and score, suggesting high player engagement."
+frame17-18_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with players moving and jumping, a timer indicating time pressure, and a kill feed showing recent player actions, suggesting engagement and interaction."
+frame18-19_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or dynamic action, and the HUD indicates no immediate threats or objectives, suggesting a low-intensity state."
+frame19-20_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating time pressure, visible health and score, and teammate interactions in the kill feed, suggesting engagement in a dynamic situation."
+frame20-21_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating time pressure, a kill feed with recent player actions, and a visible map with strategic positions, suggesting intense engagement."
+frame21-22_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows an active scoreboard with player stats, a timer indicating remaining rounds, and a kill feed with recent player actions, suggesting ongoing gameplay and interaction."
+frame22-23_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with teammates and a kill feed indicating recent player interactions, suggesting engagement and dynamic action."
+frame23-24_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a player holding a weapon and another character nearby, along with visible HUD elements like health, score, and a kill feed indicating recent player interactions, suggesting engagement in dynamic action."
+frame24-25_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with multiple players engaged, visible kill feed messages, and a timer indicating time pressure, suggesting high engagement."
+frame25-26_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with multiple players engaged in dynamic action, visible feedback from the game such as kill feed and health status, and a timer indicating time pressure."
+frame26-27_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with multiple players engaged, visible kill feed messages, and a timer indicating time pressure, suggesting high player engagement."
+frame27-28_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The scene shows active combat with multiple players and visible feedback from the game, such as a kill feed and a timer, indicating a tense and challenging situation."
+frame28-29_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with teammates and enemies, visible health and score indicators, a timer, and a kill feed, indicating intense gameplay and interaction."
+frame29-30_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with multiple players, visible health and score indicators, and a kill feed, indicating intense gameplay and interaction."
+frame30-31_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with multiple players, visible health and score indicators, and a kill feed, indicating ongoing interaction and engagement."
+frame31-32_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active gameplay with a player holding a Molotov cocktail, a teammate nearby, and visible communication via radio, indicating dynamic interaction and potential combat. The HUD displays health, score, and a timer, adding to the sense of urgency and engagement."
+frame32-33_01,0.0,low,0,low,0,"Score: 0.0
+Label: Low
+Rationale: The frame is completely blank, indicating no action, no HUD/UI elements, and no visual signs of gameplay or engagement."
+frame33-34_01,0.0,low,0,low,0,"Score: 0.0
+Label: Low
+Rationale: The frame is completely blank, indicating no action, no HUD/UI elements, and no visual signs of gameplay or engagement."
+frame34-35_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with teammates and visible feedback from the game, including a kill feed and health status, indicating intense and meaningful gameplay."
+frame35-36_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a teammate being attacked, a kill feed with multiple messages, and a timer indicating time pressure, suggesting intense and meaningful gameplay."
+frame36-37_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with teammates moving through a doorway, visible kill feed messages, and a timer indicating time pressure, suggesting intense and meaningful gameplay."
+frame37-38_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active gameplay with multiple players, a kill feed indicating recent combat, and a timer suggesting time pressure, all of which indicate high engagement."
+frame38-39_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with multiple players, visible communication via radio, and a timer indicating time pressure, suggesting high engagement."
+frame39-40_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a teammate running ahead, visible communication via radio, and a timer indicating time pressure, suggesting high engagement."
+frame40-41_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a teammate engaged in a firefight, visible communication via radio, and a timer indicating time pressure, all suggesting high engagement."
+frame41-42_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a teammate and visible communication via radio, indicating coordination and engagement. The timer, score, and kill feed also suggest a dynamic and challenging gameplay situation."
+frame42-43_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The scene shows active gameplay with a player moving through the environment, visible communication via the chat, and a timer indicating time pressure, suggesting engagement."
+frame43-44_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a teammate running and a kill feed indicating recent player interactions, suggesting engagement and dynamic action."
+frame44-45_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows a player in a relatively empty area with minimal action, and the HUD indicates no immediate threats or objectives, suggesting a low-intensity moment."
+frame45-46_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows a player navigating through a map with a timer counting down, and there is visible communication via the radio, indicating active gameplay and potential coordination with teammates."
+frame46-47_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player holding a knife with no immediate action or combat, and the environment appears empty and quiet, indicating a low-intensity state."
+frame47-48_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The player is holding a knife and appears to be in a relatively empty area with no immediate signs of combat or interaction, indicating a low-intensity moment."
+frame48-49_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The player is holding a knife and appears to be in a relatively empty area with no immediate signs of combat or interaction, indicating a low-intensity moment."
+frame49-50_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and positioned in a combat environment with a minimap, score, and timer visible, indicating active gameplay and potential for interaction with other players."
+frame50-51_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a scoped weapon aimed at a target, a kill feed with player interactions, and a timer indicating time pressure, suggesting engagement in a dynamic and challenging situation."
+frame51-52_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a scoped view, a timer indicating time pressure, and a kill feed with player interactions, suggesting engagement in dynamic action."
+frame52-53_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is in a static position with no visible combat or dynamic action, and a teammate has recently disconnected, indicating a lack of active engagement."
+frame53-54_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a player holding a sniper rifle, a minimap indicating nearby players, and a kill feed with recent player activity, suggesting engagement in a dynamic and challenging situation."
+frame54-55_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The player is in a relatively empty environment with no immediate action or visible enemies, and the HUD indicates a teammate has disconnected, suggesting a lack of dynamic interaction or tension."
+frame55-56_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or immediate action, and the player appears to be in a passive state with minimal interaction or tension."
+frame56-57_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty corridor with no visible combat or immediate threats, and the HUD indicates no recent interactions or events, suggesting a low-intensity moment."
+frame57-58_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no visible combat or immediate threats, and a teammate has just disconnected, indicating a lack of active engagement."
+frame58-59_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is in a relatively empty environment with no visible combat or immediate threats, and a teammate has just disconnected, suggesting a lack of active engagement."

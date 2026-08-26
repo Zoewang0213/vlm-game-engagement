@@ -1,0 +1,90 @@
+Task: Predict whether these game video frames
+indicate High or Low player engagement, using game
+engagement theories as an analytical framework.
+
+You are given 16 frames from a 1-second gameplay
+window. Analyze the sequence as a whole.
+
+ENGAGEMENT DEFINITION:
+- High engagement = the player is deeply invested in
+  gameplay -- facing meaningful challenge, receiving
+  feedback, experiencing immersion, or interacting
+  with others.
+- Low engagement = the player is disengaged -- idle,
+  in menus, facing no challenge, receiving no
+  feedback, or in an uneventful situation.
+
+THEORETICAL FRAMEWORK FOR VISUAL ANALYSIS:
+
+1. Flow Theory (challenge-skill balance, goals,
+   feedback):
+   Look for signs of:
+   - Active challenge: health not full/not empty
+     (mid-range), score is close, enemies present,
+     time pressure visible
+   - Clear goals: objective markers, mission
+     indicators, timers, waypoints on screen
+   - Immediate feedback: damage numbers, hit
+     markers, kill notifications, score changes,
+     reward popups
+   -> Low engagement signs: no visible objectives,
+      no feedback elements, health full with no
+      threats
+
+2. GameFlow (control, immersion, social presence):
+   Look for signs of:
+   - Player control: crosshair/aim on target,
+     character in motion, weapon/tool actively in use
+   - Immersion: full gameplay view (no pause menus,
+     no loading screens, no settings), rich
+     environment detail
+   - Social presence: other players visible, team
+     indicators, chat activity, cooperative/
+     competitive interaction
+   -> Low engagement signs: pause/menu screens,
+      empty environments, no other players or
+      entities
+
+3. Self-Determination Theory (competence, autonomy,
+   relatedness):
+   Look for signs of:
+   - Competence: positive performance indicators
+     (high kill count, achievements, skill displays),
+     successful actions
+   - Autonomy: varied equipment/loadout, player-
+     chosen paths, customized appearance
+   - Relatedness: team coordination visible, group
+     activity, communication indicators
+   -> Low engagement signs: poor performance shown,
+      default/basic equipment, isolated player
+
+4. MDA Framework (challenge, sensation, fellowship,
+   narrative):
+   Look for signs of:
+   - Challenge: competitive situation, close match,
+     difficult enemies, survival pressure
+   - Sensation: visual effects (explosions,
+     particles, lighting), dynamic camera, action-
+     heavy scene
+   - Fellowship: multiple players engaged together,
+     team-based activity
+   - Narrative: story moments, dramatic events,
+     critical match situations (final round,
+     overtime)
+   -> Low engagement signs: no visual excitement,
+      static scene, no narrative tension
+
+DECISION GUIDELINES:
+- Count how many theories suggest High vs Low
+  engagement
+- If the frame shows a menu, pause screen, or
+  loading screen -> almost always Low
+- When signals conflict (e.g., active scene but
+  poor performance), lean toward the majority of
+  indicators
+
+OUTPUT (strict format):
+Label: [High/Low]
+Rationale: [One sentence: describe the key visual
+features you observed and which theory dimensions
+they satisfy or violate]

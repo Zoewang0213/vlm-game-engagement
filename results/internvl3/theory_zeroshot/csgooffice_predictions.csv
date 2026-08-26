@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,rationale,raw_response
+frame00-01_01,0.85,high,1,low,0,"The frame shows active combat with visible feedback (blood splatter, kill notifications), player control (crosshair on target, weapon in use), and social presence (chat activity, team indicators), indicating high engagement across multiple theories.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible feedback (blood splatter, kill notifications), player control (crosshair on target, weapon in use), and social presence (chat activity, team indicators), indicating high engagement across multiple theories."
+frame01-02_01,0.85,high,1,low,0,"The frame shows active combat with visible feedback (blood splatter, kill notifications), player control (weapon in use), and social presence (chat activity, team indicators), aligning with multiple engagement theories indicating high engagement.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible feedback (blood splatter, kill notifications), player control (weapon in use), and social presence (chat activity, team indicators), aligning with multiple engagement theories indicating high engagement."
+frame02-03_01,0.85,high,1,low,0,"The scoreboard and active chat indicate ongoing gameplay, with visible player control, competition, and feedback elements, satisfying multiple engagement theories.","Score: 0.85  
+Label: High  
+Rationale: The scoreboard and active chat indicate ongoing gameplay, with visible player control, competition, and feedback elements, satisfying multiple engagement theories."
+frame03-04_01,0.85,high,1,low,0,"The frame shows active combat with visible feedback (damage numbers, kill notifications), player control (crosshair on target), and social presence (scoreboard with multiple players), indicating engagement across flow theory, gameflow, and MDA framework dimensions.","Score: 0.85  
+Label: High  
+Rationale: The frame shows active combat with visible feedback (damage numbers, kill notifications), player control (crosshair on target), and social presence (scoreboard with multiple players), indicating engagement across flow theory, gameflow, and MDA framework dimensions."
+frame04-05_01,0.75,high,1,low,0,"The frame shows active player control with a weapon in use, visible health and score indicators, and chat activity, suggesting engagement. However, there are no immediate threats or challenges visible, which slightly reduces engagement according to Flow Theory.","Score: 0.75
+Label: High
+Rationale: The frame shows active player control with a weapon in use, visible health and score indicators, and chat activity, suggesting engagement. However, there are no immediate threats or challenges visible, which slightly reduces engagement according to Flow Theory."
+frame05-06_01,0.8,high,1,low,0,"The frame shows active combat with visible feedback (damage numbers, kill notifications), player control (crosshair on target, weapon in use), and social presence (chat activity, team indicators), indicating engagement across multiple theories.","Score: 0.8
+Label: High
+Rationale: The frame shows active combat with visible feedback (damage numbers, kill notifications), player control (crosshair on target, weapon in use), and social presence (chat activity, team indicators), indicating engagement across multiple theories."
+frame06-07_01,0.8,high,1,low,0,"The frame shows active combat with visible feedback (score, kill notifications), player control (crosshair on target, weapon in use), and social presence (chat activity, team indicators), indicating high engagement across multiple theories.","Score: 0.8
+Label: High
+Rationale: The frame shows active combat with visible feedback (score, kill notifications), player control (crosshair on target, weapon in use), and social presence (chat activity, team indicators), indicating high engagement across multiple theories."
+frame07-08_01,0.8,high,1,low,0,"The frame shows active combat with a weapon in use, visible health and score indicators, and a kill notification, indicating engagement with challenge, feedback, and social presence according to Flow Theory and GameFlow.","Score: 0.8
+Label: High
+Rationale: The frame shows active combat with a weapon in use, visible health and score indicators, and a kill notification, indicating engagement with challenge, feedback, and social presence according to Flow Theory and GameFlow."
+frame08-09_01,0.85,high,1,low,0,"The frame shows active combat with visible feedback (weapon in use, health and score indicators), multiple players, and a dynamic environment, indicating engagement across challenge, feedback, and social presence theories.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible feedback (weapon in use, health and score indicators), multiple players, and a dynamic environment, indicating engagement across challenge, feedback, and social presence theories."
+frame09-10_01,0.8,high,1,low,0,"The frame shows active combat with a visible weapon, other players, and a kill notification, indicating engagement through challenge, feedback, and social presence.","Score: 0.8
+Label: High
+Rationale: The frame shows active combat with a visible weapon, other players, and a kill notification, indicating engagement through challenge, feedback, and social presence."
+frame10-11_01,0.75,high,1,low,0,"The frame shows active combat with a visible crosshair on a target, indicating player control and engagement. There is a kill notification, suggesting immediate feedback, and the presence of other players indicates social presence, aligning with multiple engagement theories.","Score: 0.75
+Label: High
+Rationale: The frame shows active combat with a visible crosshair on a target, indicating player control and engagement. There is a kill notification, suggesting immediate feedback, and the presence of other players indicates social presence, aligning with multiple engagement theories."
+frame11-12_01,0.8,high,1,low,0,"The frame shows active combat with a visible crosshair on a target, indicating player control and engagement. There are indicators of a team match, with score and time pressure visible, suggesting challenge and feedback. The environment is immersive, and other players are present, supporting social presence and interaction.","Score: 0.8
+Label: High
+Rationale: The frame shows active combat with a visible crosshair on a target, indicating player control and engagement. There are indicators of a team match, with score and time pressure visible, suggesting challenge and feedback. The environment is immersive, and other players are present, supporting social presence and interaction."
+frame12-13_01,0.75,high,1,low,0,"The frame shows active gameplay with a weapon in use, a visible vote indicating team interaction, and a minimap with objectives, suggesting engagement through challenge, feedback, and social presence.","Score: 0.75
+Label: High
+Rationale: The frame shows active gameplay with a weapon in use, a visible vote indicating team interaction, and a minimap with objectives, suggesting engagement through challenge, feedback, and social presence."
+frame13-14_01,0.6,low,0,low,0,"The scene shows a player in a lobby with no active combat or immediate challenges, and the presence of a vote menu suggests a pause in gameplay, indicating low engagement according to Flow Theory and GameFlow.","Score: 0.6
+Label: Low
+Rationale: The scene shows a player in a lobby with no active combat or immediate challenges, and the presence of a vote menu suggests a pause in gameplay, indicating low engagement according to Flow Theory and GameFlow."
+frame14-15_01,0.6,low,0,low,0,"The scene shows a player in a waiting room with no immediate action or visible enemies, and the vote screen suggests a pause in gameplay, indicating low engagement according to Flow Theory and GameFlow.","Score: 0.6
+Label: Low
+Rationale: The scene shows a player in a waiting room with no immediate action or visible enemies, and the vote screen suggests a pause in gameplay, indicating low engagement according to Flow Theory and GameFlow."
+frame15-16_01,0.75,high,1,high,1,"The frame shows active player control with a weapon in use, visible health and score indicators, and a vote interaction, suggesting engagement with challenge, feedback, and social presence.","Score: 0.75
+Label: High
+Rationale: The frame shows active player control with a weapon in use, visible health and score indicators, and a vote interaction, suggesting engagement with challenge, feedback, and social presence."
+frame16-17_01,0.75,high,1,high,1,"The frame shows active player control with a weapon in use, visible health and score indicators, and other players present, indicating engagement through challenge, feedback, and social presence.","Score: 0.75
+Label: High
+Rationale: The frame shows active player control with a weapon in use, visible health and score indicators, and other players present, indicating engagement through challenge, feedback, and social presence."
+frame17-18_01,0.75,high,1,low,0,"The player is actively engaged in combat with a visible weapon, and there are indicators of a vote and score, suggesting interaction and challenge. Feedback elements like health and ammo are present, supporting engagement according to Flow Theory and MDA Framework.","Score: 0.75
+Label: High
+Rationale: The player is actively engaged in combat with a visible weapon, and there are indicators of a vote and score, suggesting interaction and challenge. Feedback elements like health and ammo are present, supporting engagement according to Flow Theory and MDA Framework."
+frame18-19_01,0.75,high,1,low,0,"The frame shows active gameplay with a weapon in use, visible health and score indicators, and a vote in progress, suggesting engagement through challenge, feedback, and social interaction.","Score: 0.75
+Label: High
+Rationale: The frame shows active gameplay with a weapon in use, visible health and score indicators, and a vote in progress, suggesting engagement through challenge, feedback, and social interaction."
+frame19-20_01,0.6,low,0,low,0,"The scene shows a player in a largely empty room with no immediate threats or active combat, minimal visual excitement, and no visible feedback or objectives, indicating low engagement across multiple theories.","Score: 0.6
+Label: Low
+Rationale: The scene shows a player in a largely empty room with no immediate threats or active combat, minimal visual excitement, and no visible feedback or objectives, indicating low engagement across multiple theories."
+frame20-21_01,0.8,high,1,high,1,"The frame shows active combat with a visible enemy, player control with a weapon in use, and a vote interaction, indicating engagement through challenge, feedback, and social presence.","Score: 0.8
+Label: High
+Rationale: The frame shows active combat with a visible enemy, player control with a weapon in use, and a vote interaction, indicating engagement through challenge, feedback, and social presence."
+frame21-22_01,0.75,high,1,high,1,"The player is actively engaged in combat with a visible weapon and crosshair on target, indicating player control and challenge. There is a vote happening, suggesting social interaction, and the environment is immersive with no pause menus. Feedback is present with the score and time remaining, contributing to engagement.","Score: 0.75
+Label: High
+Rationale: The player is actively engaged in combat with a visible weapon and crosshair on target, indicating player control and challenge. There is a vote happening, suggesting social interaction, and the environment is immersive with no pause menus. Feedback is present with the score and time remaining, contributing to engagement."
+frame22-23_01,0.6,low,0,high,1,"The player is in a voting screen with no active challenge or feedback, and there are no enemies present, indicating a lack of engagement according to Flow Theory and GameFlow.","Score: 0.6
+Label: Low
+Rationale: The player is in a voting screen with no active challenge or feedback, and there are no enemies present, indicating a lack of engagement according to Flow Theory and GameFlow."
+frame23-24_01,0.3,low,0,high,1,"The scene shows a vote screen with no active gameplay, minimal environmental interaction, and no visible challenges or feedback, indicating low engagement across multiple theories.","Score: 0.3
+Label: Low
+Rationale: The scene shows a vote screen with no active gameplay, minimal environmental interaction, and no visible challenges or feedback, indicating low engagement across multiple theories."
+frame24-25_01,0.6,low,0,high,1,"The scene shows a player in a conference room with no immediate action or visible enemies, and a vote is occurring, indicating a pause in gameplay. Feedback elements like score changes are present, but there's no active challenge or player control evident, suggesting low engagement.","Score: 0.6
+Label: Low
+Rationale: The scene shows a player in a conference room with no immediate action or visible enemies, and a vote is occurring, indicating a pause in gameplay. Feedback elements like score changes are present, but there's no active challenge or player control evident, suggesting low engagement."
+frame25-26_01,0.6,low,0,low,0,"The player is in a voting screen with no active challenge or feedback, and the environment is static with no visible enemies or objectives, indicating low engagement according to Flow Theory and GameFlow.","Score: 0.6
+Label: Low
+Rationale: The player is in a voting screen with no active challenge or feedback, and the environment is static with no visible enemies or objectives, indicating low engagement according to Flow Theory and GameFlow."
+frame26-27_01,0.6,low,0,low,0,"The player is in a menu screen with no active gameplay, as indicated by the vote prompt and lack of immediate action or feedback, suggesting low engagement according to Flow Theory and GameFlow.","Score: 0.6
+Label: Low
+Rationale: The player is in a menu screen with no active gameplay, as indicated by the vote prompt and lack of immediate action or feedback, suggesting low engagement according to Flow Theory and GameFlow."
+frame27-28_01,0.6,low,0,low,0,"The scene shows a player in a relatively empty corridor with no immediate threats or active combat, lacking visible challenges or feedback elements, indicating low engagement.","Score: 0.6
+Label: Low
+Rationale: The scene shows a player in a relatively empty corridor with no immediate threats or active combat, lacking visible challenges or feedback elements, indicating low engagement."
+frame28-29_01,0.6,low,0,low,0,"The scene shows a player in a relatively empty corridor with no immediate threats or active combat, minimal visual excitement, and no visible feedback or objectives, indicating low engagement according to most engagement theories.","Score: 0.6
+Label: Low
+Rationale: The scene shows a player in a relatively empty corridor with no immediate threats or active combat, minimal visual excitement, and no visible feedback or objectives, indicating low engagement according to most engagement theories."
+frame29-30_01,0.75,high,1,low,0,"The frame shows active combat with a visible crosshair on a target, indicating player control and engagement. There are visual effects like bullet holes and a score display, providing immediate feedback. The presence of other players and a voting system suggests social interaction, contributing to high engagement according to Flow Theory, GameFlow, and MDA Framework.","Score: 0.75
+Label: High
+Rationale: The frame shows active combat with a visible crosshair on a target, indicating player control and engagement. There are visual effects like bullet holes and a score display, providing immediate feedback. The presence of other players and a voting system suggests social interaction, contributing to high engagement according to Flow Theory, GameFlow, and MDA Framework."
+frame30-31_01,0.8,high,1,low,0,"The frame shows active combat with visible feedback (blood splatter, score, and health indicators), player control (crosshair on target), and engagement with the environment (weapon in use), aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.8
+Label: High
+Rationale: The frame shows active combat with visible feedback (blood splatter, score, and health indicators), player control (crosshair on target), and engagement with the environment (weapon in use), aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame31-32_01,0.85,high,1,low,0,"The frame shows active combat with visible feedback (blood splatter, weapon in use), clear objectives (mini-map, score), and player control (aiming), indicating engagement across multiple theories.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible feedback (blood splatter, weapon in use), clear objectives (mini-map, score), and player control (aiming), indicating engagement across multiple theories."
+frame32-33_01,0.85,high,1,low,0,"The frame shows active combat with visible blood splatters and a weapon in use, indicating challenge and feedback. There are indicators of player control and immersion, with a minimap and score visible, suggesting engagement across multiple theories.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible blood splatters and a weapon in use, indicating challenge and feedback. There are indicators of player control and immersion, with a minimap and score visible, suggesting engagement across multiple theories."
+frame33-34_01,0.85,high,1,low,0,"The frame shows active combat with visible feedback (blood splatter, weapon in use), indicating engagement with challenge and immediate feedback from Flow Theory. The player control and immersion aspects from GameFlow are also evident, as the player is actively aiming and in a dynamic environment. The presence of other players and objectives suggests relatedness and fellowship, contributing to high engagement.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible feedback (blood splatter, weapon in use), indicating engagement with challenge and immediate feedback from Flow Theory. The player control and immersion aspects from GameFlow are also evident, as the player is actively aiming and in a dynamic environment. The presence of other players and objectives suggests relatedness and fellowship, contributing to high engagement."
+frame34-35_01,0.9,high,1,low,0,"The frame shows active combat with visible feedback (blood splatters, weapon use), clear player control (crosshair on target), and a dynamic environment, satisfying multiple dimensions of Flow Theory, GameFlow, and MDA Framework for high engagement.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (blood splatters, weapon use), clear player control (crosshair on target), and a dynamic environment, satisfying multiple dimensions of Flow Theory, GameFlow, and MDA Framework for high engagement."
+frame35-36_01,0.85,high,1,high,1,"The frame shows active combat with visible feedback (blood splatter, weapon in use), indicating engagement with challenge and immediate feedback from Flow Theory. The player is in control, immersed in the environment, and there is a sense of ongoing action, satisfying GameFlow and MDA Framework dimensions.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible feedback (blood splatter, weapon in use), indicating engagement with challenge and immediate feedback from Flow Theory. The player is in control, immersed in the environment, and there is a sense of ongoing action, satisfying GameFlow and MDA Framework dimensions."
+frame36-37_01,0.85,high,1,high,1,"The frame shows active combat with visible damage feedback and player control, indicating engagement with challenge, feedback, and immersion dimensions of Flow Theory and MDA Framework.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible damage feedback and player control, indicating engagement with challenge, feedback, and immersion dimensions of Flow Theory and MDA Framework."
+frame37-38_01,0.6,low,0,low,0,"The scene shows a player in a static environment with no visible enemies or active challenges, minimal feedback (no damage numbers or notifications), and no clear objectives or social interaction, indicating low engagement.","Score: 0.6
+Label: Low
+Rationale: The scene shows a player in a static environment with no visible enemies or active challenges, minimal feedback (no damage numbers or notifications), and no clear objectives or social interaction, indicating low engagement."
+frame38-39_01,0.75,high,1,low,0,"The frame shows active player control with a weapon in use, an enemy in sight, and a minimap indicating objectives, satisfying elements of challenge, goals, and immersion from Flow Theory and GameFlow. However, there is no visible feedback like damage numbers or score changes, and the environment is relatively static, slightly reducing engagement.","Score: 0.75
+Label: High
+Rationale: The frame shows active player control with a weapon in use, an enemy in sight, and a minimap indicating objectives, satisfying elements of challenge, goals, and immersion from Flow Theory and GameFlow. However, there is no visible feedback like damage numbers or score changes, and the environment is relatively static, slightly reducing engagement."
+frame39-40_01,0.8,high,1,high,1,"The player is actively engaged in combat, as indicated by the crosshair on a target, visible health and ammo levels, and the presence of other players and objectives. This aligns with Flow Theory (active challenge and goals), GameFlow (player control and immersion), and MDA Framework (challenge and sensation).","Score: 0.8
+Label: High
+Rationale: The player is actively engaged in combat, as indicated by the crosshair on a target, visible health and ammo levels, and the presence of other players and objectives. This aligns with Flow Theory (active challenge and goals), GameFlow (player control and immersion), and MDA Framework (challenge and sensation)."
+frame40-41_01,0.6,low,0,high,1,"The player is in a non-combat situation with no visible enemies or active challenges, and there is a teammate attack notification, suggesting disengagement. Feedback and active goals are minimal, aligning with low engagement according to Flow Theory and GameFlow.","Score: 0.6
+Label: Low
+Rationale: The player is in a non-combat situation with no visible enemies or active challenges, and there is a teammate attack notification, suggesting disengagement. Feedback and active goals are minimal, aligning with low engagement according to Flow Theory and GameFlow."
+frame41-42_01,0.75,high,1,low,0,"The frame shows active gameplay with a weapon in use, visible health and ammo indicators, and a minimap, suggesting engagement. There is also a teammate notification, indicating social interaction, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.75
+Label: High
+Rationale: The frame shows active gameplay with a weapon in use, visible health and ammo indicators, and a minimap, suggesting engagement. There is also a teammate notification, indicating social interaction, aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame42-43_01,0.6,low,0,low,0,"The scene shows a player in a room with no immediate action or visible enemies, and there is a teammate attack notification, suggesting a lack of active challenge or feedback. The environment appears static, and there is no clear objective or dynamic interaction, indicating low engagement according to Flow Theory and GameFlow.","Score: 0.6
+Label: Low
+Rationale: The scene shows a player in a room with no immediate action or visible enemies, and there is a teammate attack notification, suggesting a lack of active challenge or feedback. The environment appears static, and there is no clear objective or dynamic interaction, indicating low engagement according to Flow Theory and GameFlow."
+frame43-44_01,0.75,high,1,low,0,"The frame shows active combat with visible feedback (e.g., kill notification, health bar), player control (crosshair on target), and social presence (other players), indicating engagement across multiple theories.","Score: 0.75
+Label: High
+Rationale: The frame shows active combat with visible feedback (e.g., kill notification, health bar), player control (crosshair on target), and social presence (other players), indicating engagement across multiple theories."
+frame44-45_01,0.75,high,1,low,0,"The frame shows active combat with visible feedback (e.g., kill notification, health status), player control (character in motion, weapon in use), and social presence (other players indicated on the map), aligning with multiple engagement theories.","Score: 0.75
+Label: High
+Rationale: The frame shows active combat with visible feedback (e.g., kill notification, health status), player control (character in motion, weapon in use), and social presence (other players indicated on the map), aligning with multiple engagement theories."
+frame45-46_01,0.75,high,1,low,0,"The scene shows active gameplay with a character moving through a corridor, visible health and ammo indicators, and a minimap, suggesting engagement. There are other players indicated by the names and icons, implying social presence. However, the lack of immediate action or feedback elements like damage numbers or kill notifications slightly reduces engagement. Overall, the active environment and player interaction suggest high engagement.","Score: 0.75
+Label: High
+Rationale: The scene shows active gameplay with a character moving through a corridor, visible health and ammo indicators, and a minimap, suggesting engagement. There are other players indicated by the names and icons, implying social presence. However, the lack of immediate action or feedback elements like damage numbers or kill notifications slightly reduces engagement. Overall, the active environment and player interaction suggest high engagement."
+frame46-47_01,0.7,high,1,low,0,"The frame shows active combat with visible feedback (e.g., ""Manotaur attacked a teammate""), player control (crosshair on target), and social presence (multiple players indicated by icons and names), aligning with Flow Theory, GameFlow, and MDA Framework dimensions.","Score: 0.7
+Label: High
+Rationale: The frame shows active combat with visible feedback (e.g., ""Manotaur attacked a teammate""), player control (crosshair on target), and social presence (multiple players indicated by icons and names), aligning with Flow Theory, GameFlow, and MDA Framework dimensions."
+frame47-48_01,0.85,high,1,high,1,"The frame shows active combat with visible feedback (damage numbers, hit markers), player control (crosshair on target, weapon in use), and social presence (other players and team indicators), indicating high engagement across multiple theories.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible feedback (damage numbers, hit markers), player control (crosshair on target, weapon in use), and social presence (other players and team indicators), indicating high engagement across multiple theories."
+frame48-49_01,0.8,high,1,high,1,"The frame shows active combat with visible feedback (blood splatters, kill notifications), player control (weapon in use), and social presence (multiple players), indicating high engagement across several theories.","Score: 0.8
+Label: High
+Rationale: The frame shows active combat with visible feedback (blood splatters, kill notifications), player control (weapon in use), and social presence (multiple players), indicating high engagement across several theories."
+frame49-50_01,0.8,high,1,low,0,"The frame shows active combat with visible feedback (damage numbers, kill notifications), player control (weapon in use), and social presence (team indicators), aligning with multiple engagement theories indicating high engagement.","Score: 0.8
+Label: High
+Rationale: The frame shows active combat with visible feedback (damage numbers, kill notifications), player control (weapon in use), and social presence (team indicators), aligning with multiple engagement theories indicating high engagement."
+frame50-51_01,0.75,high,1,low,0,"The frame shows active gameplay with a player holding a weapon, visible health and ammo indicators, and a kill notification, indicating engagement through challenge, feedback, and player control. However, the lack of immediate threats or dynamic action slightly reduces the engagement level.","Score: 0.75
+Label: High
+Rationale: The frame shows active gameplay with a player holding a weapon, visible health and ammo indicators, and a kill notification, indicating engagement through challenge, feedback, and player control. However, the lack of immediate threats or dynamic action slightly reduces the engagement level."
+frame51-52_01,0.75,high,1,low,0,"The frame shows active combat with visible feedback (e.g., ""Manotaur attacked a teammate""), player control (crosshair on target), and social presence (multiple players indicated), aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement.","Score: 0.75
+Label: High
+Rationale: The frame shows active combat with visible feedback (e.g., ""Manotaur attacked a teammate""), player control (crosshair on target), and social presence (multiple players indicated), aligning with Flow Theory, GameFlow, and MDA Framework dimensions for high engagement."
+frame52-53_01,0.85,high,1,high,1,"The frame shows active combat with visible feedback (damage effects, kill notifications), player control (crosshair on target, weapon in use), and social presence (other players and team indicators), indicating high engagement across multiple theories.","Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible feedback (damage effects, kill notifications), player control (crosshair on target, weapon in use), and social presence (other players and team indicators), indicating high engagement across multiple theories."
+frame53-54_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (damage numbers, kill notifications), player control (weapon in use), and social presence (team indicators), aligning with multiple engagement theories indicating high engagement.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (damage numbers, kill notifications), player control (weapon in use), and social presence (team indicators), aligning with multiple engagement theories indicating high engagement."
+frame54-55_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (score changes, kill notifications, and player control), indicating engagement across multiple theories, particularly Flow Theory and GameFlow.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (score changes, kill notifications, and player control), indicating engagement across multiple theories, particularly Flow Theory and GameFlow."
+frame55-56_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback such as kill notifications, score updates, and a clear objective (Counter-Terrorists Win), indicating engagement across multiple theories, particularly Flow Theory and MDA Framework.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback such as kill notifications, score updates, and a clear objective (Counter-Terrorists Win), indicating engagement across multiple theories, particularly Flow Theory and MDA Framework."
+frame56-57_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (kill notifications, score changes), player control (crosshair on target), and social presence (team indicators), indicating high engagement across multiple theories.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (kill notifications, score changes), player control (crosshair on target), and social presence (team indicators), indicating high engagement across multiple theories."
+frame57-58_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (kill notifications, score updates), player control (weapon in use), and social presence (team indicators), aligning with multiple engagement theories indicating high engagement.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (kill notifications, score updates), player control (weapon in use), and social presence (team indicators), aligning with multiple engagement theories indicating high engagement."
+frame58-59_01,0.9,high,1,high,1,"The frame shows active combat with visible feedback (kill notifications, score updates), player control (weapon in use), and social presence (team indicators), indicating high engagement across multiple theories.","Score: 0.9
+Label: High
+Rationale: The frame shows active combat with visible feedback (kill notifications, score updates), player control (weapon in use), and social presence (team indicators), indicating high engagement across multiple theories."

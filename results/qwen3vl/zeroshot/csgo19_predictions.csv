@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with 8 enemies remaining, a countdown timer (00:44), and the player holding a weapon, indicating an intense, time-sensitive gameplay situation with visible tension and challenge."
+frame01-02_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is actively aiming a weapon in a combat-focused environment with an enemy count (8) and a timer (00:43) indicating time pressure, suggesting high engagement in a live multiplayer match."
+frame02-03_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (8 enemies remaining, 42-second timer), the player is holding a weapon with ammo count visible, and the environment suggests a tactical position overlooking a bridge — all signs of high engagement in a live multiplayer match."
+frame03-04_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (8 enemies remaining, 00:41 timer, player holding a weapon), suggesting a tense, time-sensitive engagement with direct player-versus-player conflict."
+frame04-05_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (8 enemies remaining, 40-second timer), the player is holding a weapon, and the environment suggests a tactical position on a bridge, all pointing to high engagement in a live multiplayer scenario."
+frame05-06_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The HUD shows 8 enemies remaining and a 39-second timer, indicating an active combat scenario with time pressure, which is a strong sign of high engagement. The player is holding a weapon and positioned on a bridge, suggesting readiness for imminent action or combat."
+frame06-07_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (8 enemies remaining, 38-second timer), the player is holding a weapon, and the environment suggests a tense, high-stakes situation on a precarious bridge, all pointing to high engagement."
+frame07-08_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is actively aiming a weapon at an enemy marked with a red ""Enemy"" tag, with a timer (00:37) and enemy count (8) indicating a time-sensitive, competitive scenario, suggesting high engagement."
+frame08-09_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is actively aiming a weapon at an enemy marked with a red “Enemy” tag, with a visible red targeting arc indicating imminent combat, and the HUD shows a countdown timer (00:36) and 7 enemies remaining, suggesting a tense, high-stakes situation."
+frame09-10_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (7 enemies remaining, 00:35 timer, enemy markers on rocks), player is holding a weapon, and HUD elements suggest ongoing gameplay with health, ammo, and score visible, all pointing to high engagement."
+frame10-11_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows the player in a combat scenario with 7 enemies indicated, a timer counting down (00:34), and a weapon in hand, suggesting active engagement in a timed, adversarial situation."
+frame11-12_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with 7 enemies remaining, a countdown timer (00:33), and the player holding a weapon, indicating an intense, time-sensitive gameplay situation with visible threats and player action."
+frame12-13_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with 7 enemies indicated, a timer counting down (00:32), visible bloodstains, and a player holding a weapon, all signaling intense, ongoing gameplay with time pressure and direct threats."
+frame13-14_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is stationary on a rocky beach with no visible enemies or immediate threats, and the on-screen prompt “Use your healthshot” suggests a non-combat, recovery-focused moment, indicating low engagement."
+frame14-15_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with 7 enemies remaining, a timer counting down (00:30), a healthshot prompt, and a fallen enemy with loot, indicating intense, time-sensitive gameplay with clear player objectives and feedback."
+frame15-16_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is in an active combat scenario with 7 enemies remaining, a timer counting down, and a healthshot prompt, indicating a tense, high-stakes moment requiring immediate action."
+frame16-17_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with 7 enemies remaining, a countdown timer (00:28), a healthshot prompt, and visible enemy indicators, all indicating high tension and active gameplay."
+frame17-18_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with 7 enemies remaining, a timer counting down (00:27), a healthshot prompt, and the player holding a weapon, all indicating intense, time-sensitive gameplay with high stakes."
+frame18-19_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is standing idle in water with no visible enemies or immediate threats, and the only UI feedback is a passive prompt to ""Use your healthshot"" and ""Armor equipped,"" indicating a lack of active combat or dynamic gameplay."
+frame19-20_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is standing idle on a beach with no immediate threats, and the only UI feedback is a passive “Use your healthshot” prompt and an armor equipped notification, indicating a lack of active combat or urgent gameplay."
+frame20-21_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The frame shows active gameplay with a healthshot prompt, an enemy downed nearby, a timer counting down, and visible armor equipped, all indicating an intense, dynamic combat situation requiring player decision-making."
+frame21-22_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The player is actively using a healthshot on a downed enemy, indicated by the on-screen prompt and the item in hand, while also managing armor and facing 7 enemies with a 23-second timer, suggesting active, high-stakes gameplay."
+frame22-23_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is holding a healthshot near water with no visible enemies or action, and the timer (00:22) suggests a low-stakes moment, indicating passive engagement rather than active combat or challenge."
+frame23-24_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is lying prone on the ground in a static, non-combat position with no visible enemies or immediate threats, and the HUD shows no active combat indicators (like a kill feed or active weapon selection), suggesting a passive or idle state rather than high engagement."
+frame24-25_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is positioned in a static, rocky environment with no visible enemies, combat, or dynamic action, and the HUD shows a timer (00:20) but no immediate threats or objectives requiring active response, indicating low engagement."
+frame25-26_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible enemy count (6), a timer (00:19), and the player holding a weapon, indicating an ongoing combat situation with time pressure and direct player involvement."
+frame26-27_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (5 enemies remaining, 18-second timer), player health and ammo status, and a visible teammate/kill feed, all suggesting intense, time-sensitive gameplay with direct player interaction and tension."
+frame27-28_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (5 enemies, 00:17 timer, health/armor bars, weapon HUD), player interaction (other players' names visible), and a tense environment (cliffside bunker with enemies nearby), all signaling high engagement."
+frame28-29_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (5 enemies remaining, 16-second timer), player health and ammo status, and a visible weapon in hand, all suggesting intense, time-pressured gameplay with clear stakes."
+frame29-30_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a timer (00:15), enemy count (5), and visible in-game currency rewards (+$550), indicating ongoing combat or objective-driven action under time pressure, which are strong indicators of high engagement."
+frame30-31_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible enemy count (5), a timer (00:15), and the player holding a weapon, indicating an ongoing combat situation with time pressure and direct player involvement."
+frame31-32_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (5 enemies, 00:14 timer, health/armor bars, weapon in hand) and a dynamic environment with visible threats, suggesting high tension and player involvement in a challenging situation."
+frame32-33_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is in the in-game shop menu, which is a passive state, and the HUD shows a countdown timer (00:13) and 5 enemies nearby, suggesting a brief pause rather than active combat, indicating low engagement."
+frame33-34_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The player is actively using a tactical map with visible enemy count (5), a timer (00:11), and an alert (“Incoming Delivery”), indicating a tense, time-sensitive situation requiring strategic decision-making, which constitutes high engagement."
+frame34-35_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is viewing a map on a tablet, which is a menu/pause state, and there are no active combat indicators or dynamic events occurring, suggesting passive engagement."
+frame35-36_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (5 enemies remaining, 10-second timer), the player is holding a weapon, and the environment suggests a tactical position near water and cliffs, all pointing to high engagement in a live gameplay scenario."
+frame36-37_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (5 enemies, 00:09 timer, weapon in hand), suggesting a tense, time-sensitive firefight in a dynamic environment, which points to high player engagement."
+frame37-38_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (5 enemies, 00:08 timer, weapon in hand), a dynamic environment with a bridge and cliffs, and visible player stats (health, ammo, money), all suggesting intense, meaningful gameplay."
+frame38-39_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (5 enemies, 00:07 timer, health/armor bars, weapon in hand) and a dynamic environment with a bridge and terrain suggesting movement and strategy, indicating high engagement."
+frame39-40_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (5 enemies, 6-second timer), the player is holding a weapon, and the environment suggests a tactical position near a bridge, all pointing to high engagement."
+frame40-41_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows a first-person shooter with a timer (00:05), enemy count (5), and active weapon (MAG-7), indicating an ongoing timed combat scenario with clear objectives and pressure, which signifies high engagement."
+frame41-42_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows a combat scenario with 5 enemies indicated on-screen, a 4-second timer suggesting time pressure, and the player holding a weapon, all pointing to active, high-stakes gameplay."
+frame42-43_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows a first-person shooter with a visible enemy count (5), a countdown timer (00:03), and active weapon selection, indicating an ongoing, time-sensitive combat scenario that demands player focus and action."
+frame43-44_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows a combat scenario with 5 enemies indicated, a 2-second timer suggesting time pressure, and the player holding a weapon (Glock-18), all pointing to active, high-stakes gameplay."
+frame44-45_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows a countdown timer (00:01), an enemy count (5), and a visible weapon (Gift's Flashbang), indicating an imminent combat situation with time pressure and active player objectives, which are strong indicators of high engagement."
+frame45-46_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat readiness (player holding a weapon, 5 enemies indicated on HUD), a timer at 00:00 suggesting imminent action or round start, and visible enemy count and score feedback, all indicating high engagement."
+frame46-47_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is positioned on a rocky overlook with no immediate combat, enemies, or dynamic action visible, and the HUD shows no active threats or objectives beyond a distant enemy count, indicating a passive, exploratory state."
+frame47-48_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a calm, scenic environment with no visible enemies or active combat, and the HUD indicates 5 enemies but no immediate threat or action, suggesting a passive exploration or idle state."
+frame48-49_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is in a calm, open environment with no visible enemies or immediate threats, and the HUD shows no active combat indicators (like a kill feed or active timer), suggesting a passive exploration or waiting state rather than high engagement."
+frame49-50_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is holding a weapon but appears stationary on a rocky path with no visible enemies or immediate threats, and the HUD shows no active combat indicators (like a kill feed or active timer), suggesting a passive, exploratory state rather than high engagement."
+frame50-51_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is positioned on a high cliff overlooking a vast, empty landscape with no immediate threats or action, and the HUD shows no active combat indicators (like a kill feed or active enemy targeting), suggesting a passive, observational state rather than high engagement."
+frame51-52_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is holding a weapon in a static, rocky environment with no visible enemies or immediate action, and the HUD shows no active combat indicators (like a kill feed or active timer), suggesting a passive or idle state."
+frame52-53_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The player is holding a weapon, facing a steep rocky terrain with a bridge in the distance, and the HUD shows 5 enemies remaining, indicating an active combat situation with clear objectives and tension."
+frame53-54_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is viewing a static map on a tablet with no active combat or movement, and the HUD shows only a low number of enemies (5) and no immediate threats, indicating a passive, strategic pause rather than high engagement."
+frame54-55_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is holding a tablet displaying a map with alerts, indicating a pause or planning phase rather than active combat, and the environment is static with no visible enemies or immediate threats."
+frame55-56_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is viewing a map on a tablet, which is a passive, strategic action rather than active combat or gameplay. The HUD shows no immediate threats or dynamic events, and the environment is calm with no visible enemies or urgent objectives, indicating low engagement."
+frame56-57_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is viewing a map in a paused or idle state, with no active combat, movement, or dynamic events occurring, indicating low engagement."
+frame57-58_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is viewing a map on a tablet with no active combat or movement, and the HUD shows no immediate threats or objectives being pursued, indicating a passive, strategic pause rather than high engagement."
+frame58-59_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is positioned statically on a rocky overlook with no visible enemies or immediate action, and the HUD shows no active combat indicators (like a kill feed or active timer), suggesting a passive, observational state rather than high engagement."

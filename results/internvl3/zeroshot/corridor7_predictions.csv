@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player holding a weapon with a visible ammo count and a minimap, indicating active gameplay. The red lighting and corridor suggest a tense or challenging environment, contributing to high engagement."
+frame01-02_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player holding a weapon in a dimly lit environment with a visible HUD, indicating active gameplay and potential challenges. The presence of a maze-like map and score/time elements suggests engagement in a task or mission."
+frame02-03_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a player holding a weapon in a tense environment with a red overlay, indicating potential combat or urgency. The HUD elements, such as the score and timer, suggest active gameplay and time pressure."
+frame03-04_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a complex control panel with active elements, suggesting engagement in a challenging task. The HUD displays health, score, and a timer, indicating active gameplay."
+frame04-05_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and appears to be in a tense environment with a timer and score visible, indicating active gameplay and potential time pressure."
+frame05-06_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a control panel with active displays, suggesting readiness for action or interaction, indicating engagement. The presence of a timer and score elements also suggests a challenging or time-sensitive scenario."
+frame06-07_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is engaged in combat with an enemy, indicated by the visible weapon and the presence of an enemy character. The HUD shows health, score, and a timer, suggesting active gameplay and time pressure."
+frame07-08_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with enemies in front of the player, visible health and ammunition indicators, and a timer, suggesting intense gameplay."
+frame08-09_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a door with a keypad, suggesting readiness for potential combat or interaction, with visible HUD elements indicating health, ammo, and a timer, contributing to a sense of tension and engagement."
+frame09-10_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a first-person view in a corridor with minimal action, no visible enemies or dynamic events, and a lack of immediate challenges or feedback, indicating a low-intensity state."
+frame10-11_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a door, suggesting readiness for potential combat or interaction, with visible HUD elements indicating health, score, and a timer, contributing to a sense of engagement and anticipation."
+frame11-12_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows the player in a static environment with no visible action or interaction, and the HUD elements indicate a lack of dynamic gameplay or challenges."
+frame12-13_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a low-intensity situation with minimal HUD feedback."
+frame13-14_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a building or construction phase, indicating a low-intensity state."
+frame14-15_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a low-intensity situation with minimal HUD feedback."
+frame15-16_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a low-intensity situation with minimal HUD feedback."
+frame16-17_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a potential enemy, with a minimap and HUD elements indicating active gameplay and engagement."
+frame17-18_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is actively engaged in combat, as indicated by the visible weapon and the presence of an enemy in the distance. The HUD shows health, ammunition, and a timer, suggesting an ongoing challenge."
+frame18-19_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a door, suggesting readiness for action. The HUD shows a timer and score, indicating a challenge or objective, which implies engagement."
+frame19-20_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and appears to be in a corridor with potential threats ahead, indicated by the enemy markers and the minimap, suggesting active engagement and anticipation of combat."
+frame20-21_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and navigating through a corridor with visible HUD elements like health, score, and a mini-map, indicating active gameplay and engagement."
+frame21-22_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with enemies, visible health and ammunition indicators, and a timer, suggesting intense gameplay and player engagement."
+frame22-23_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing potential threats, with visible HUD elements indicating health, score, and a timer, suggesting active gameplay and engagement."
+frame23-24_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a complex environment with active elements like servers and a timer, indicating a challenging situation. The HUD shows health, score, and a timer, suggesting ongoing gameplay and engagement."
+frame24-25_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and appears to be in a corridor with a timer and score visible, indicating active gameplay and potential time pressure."
+frame25-26_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is in a static environment with no visible action or interaction, and the HUD elements suggest a lack of immediate challenges or dynamic gameplay."
+frame26-27_01,0.6,low,0,low,0,"Score: 0.6
+Label: Low
+Rationale: The scene shows a relatively empty corridor with minimal action, and the player appears to be in a low-intensity environment with no immediate threats or dynamic events. The HUD indicates some resources and a timer, but there is no visible combat or interaction with other players."
+frame27-28_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a low-intensity situation with minimal HUD feedback."
+frame28-29_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a calm state with no immediate threats or objectives."
+frame29-30_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a door, suggesting readiness for potential combat or interaction, with visible HUD elements indicating health, score, and time, contributing to a sense of active engagement."
+frame30-31_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and navigating through a corridor with visible HUD elements indicating health, ammo, and a timer, suggesting active gameplay and potential challenges."
+frame31-32_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with visible enemies and a weapon in use, along with HUD elements indicating health, score, and a timer, suggesting an intense and challenging gameplay moment."
+frame32-33_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible damage effects and a dynamic action sequence, indicating intense gameplay. The HUD elements display health, score, and ammunition, suggesting ongoing engagement and challenge."
+frame33-34_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing an enemy, indicating active combat. The HUD shows health, ammo, and a timer, suggesting ongoing gameplay and time pressure."
+frame34-35_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and appears to be in a corridor with potential enemies or objectives, indicated by the HUD elements showing health, ammo, and a score, suggesting active gameplay."
+frame35-36_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and appears to be in a corridor with a visible enemy, indicating active combat and engagement. The HUD shows health, ammo, and a timer, suggesting a dynamic and challenging situation."
+frame36-37_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and appears to be in a corridor with a visible HUD showing health, score, and ammunition, indicating active gameplay and potential for engagement."
+frame37-38_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a waiting or idle state, indicating low engagement."
+frame38-39_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a waiting or idle state, indicating low engagement."
+frame39-40_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and appears to be in a corridor with a visible HUD showing health, ammo, and score, indicating active gameplay and potential for engagement."
+frame40-41_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a potential threat, with HUD elements indicating health, ammunition, and score, suggesting active gameplay and engagement."
+frame41-42_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a large target, with visible HUD elements indicating health, score, and time, suggesting active gameplay and engagement."
+frame42-43_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a door with a potential objective, indicated by the HUD elements showing health, ammo, and score, suggesting active gameplay and engagement."
+frame43-44_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is actively engaged in combat, as indicated by the visible gun and aiming down sights, along with HUD elements showing health, ammunition, and score, suggesting an intense gameplay moment."
+frame44-45_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is actively engaged in combat with visible enemies ahead, and the HUD shows health, score, and ammunition, indicating an intense and challenging situation."
+frame45-46_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and facing a potential enemy, with visible health, score, and timer HUD elements, indicating active gameplay and engagement."
+frame46-47_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with visible enemies and a weapon aimed at them, indicating engagement. The HUD displays health, score, and ammunition, suggesting dynamic gameplay."
+frame47-48_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a calm setting with minimal HUD activity, indicating low engagement."
+frame48-49_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a calm setting without any immediate threats or objectives."
+frame49-50_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a gun and facing a complex puzzle or challenge, with visible HUD elements indicating health, score, and objectives, suggesting active engagement and tension."
+frame50-51_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is interacting with a complex puzzle or control panel, indicated by the detailed interface and active use of a tool, suggesting engagement with challenging gameplay. The HUD elements, such as the score and timer, add to the sense of active participation."
+frame51-52_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active combat with visible enemies and a weapon in use, along with HUD elements indicating health, score, and ammunition, suggesting intense gameplay."
+frame52-53_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and appears to be in a combat situation with visible health, score, and timer HUD elements, indicating active gameplay and engagement."
+frame53-54_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a static environment with no visible combat or dynamic action, and the HUD indicates a lack of immediate objectives or threats, suggesting low engagement."
+frame54-55_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a simple, uneventful setting with minimal HUD elements indicating gameplay activity."
+frame55-56_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static environment with no visible action or interaction, and the player appears to be in a low-intensity situation with minimal HUD feedback."
+frame56-57_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and navigating through a corridor, with visible HUD elements indicating health, ammunition, and score, suggesting active gameplay and engagement."
+frame57-58_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The player is holding a weapon and navigating through a corridor, with visible HUD elements indicating health, score, and ammunition, suggesting active gameplay and engagement."
+frame58-59_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a corridor with minimal action, no visible combat or interaction with other players, and a lack of dynamic elements, indicating a low-intensity state."

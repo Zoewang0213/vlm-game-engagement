@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows an active scoreboard with live player stats, a kill feed indicating recent actions, and a visible in-game environment with a player holding a knife, suggesting ongoing gameplay rather than a pause or idle state."
+frame01-02_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a kill feed notification, a scoreboard with live player stats, and a visible weapon selection, indicating ongoing gameplay with dynamic events and player interaction."
+frame02-03_01,0.0,low,0,high,1,"Score: 0.0
+Label: Low
+Rationale: The frame shows a post-match screen with ""Terrorists Win"" and no active combat, indicating the gameplay has ended, and the player is likely in a passive state reviewing results rather than engaging in active gameplay."
+frame03-04_01,0.0,low,0,high,1,"Score: 0.0
+Label: Low
+Rationale: The frame shows a post-match screen with ""Terrorists Win"" and no active gameplay; the player is holding a knife in an empty environment with no enemies or teammates visible, indicating a passive, post-round state."
+frame04-05_01,0.15,low,0,high,1,"Score: 0.15
+Label: Low
+Rationale: The frame shows a post-match screen with ""Terrorists Win"" and no active combat, only a knife in hand and a static environment, indicating the player is no longer engaged in gameplay."
+frame05-06_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows intense combat with multiple players, a ""MATCH POINT"" indicating high-stakes gameplay, active enemy engagement, visible kill feed rewards, and a timer counting down, all signaling high player engagement."
+frame06-07_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows intense, direct combat with multiple players visible, a kill feed notification, a timer counting down, and the player holding a knife while facing enemies, all indicating high engagement and active gameplay."
+frame07-08_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows an active Counter-Strike match in progress with a timer (02:18), live player stats, a kill feed notification, and a visible in-game environment with a car and buildings, indicating ongoing gameplay and player interaction."
+frame08-09_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a teammate visible, a kill feed notification, a timer counting down, and the player holding a knife in a tense environment, all indicating high engagement."
+frame09-10_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with multiple players engaged, a visible kill feed, a timer indicating time pressure, and the player holding a knife while facing an enemy, all signs of high engagement."
+frame10-11_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The player is in active combat with an enemy directly in front, holding a knife, and the HUD shows a live timer, score, and recent kill feedback, indicating intense, real-time gameplay with high stakes."
+frame11-12_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with multiple players moving dynamically, visible gunfire effects, a kill feed notification, and a timer indicating time pressure—all signs of high engagement."
+frame12-13_01,0.2,low,0,high,1,"Score: 0.2
+Label: Low
+Rationale: The frame shows a static buy menu with no active combat or gameplay, indicating the player is in a pause state for equipment selection rather than engaged in intense action."
+frame13-14_01,0.2,low,0,low,0,"Score: 0.2
+Label: Low
+Rationale: The frame shows a static buy menu with no active combat or gameplay, indicating the player is in a pause state for purchasing items, which is a low-engagement activity."
+frame14-15_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The player is actively moving through a combat zone with teammates, holding a grenade, and the HUD shows a live timer, kill feed, and active team status, all indicating intense, real-time gameplay."
+frame15-16_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with multiple teammates moving and aiming weapons, a visible grenade in hand, a kill feed indicating teammate attacks, and a timer counting down, all signaling intense, high-stakes gameplay."
+frame16-17_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with multiple teammates advancing in a tactical formation, a visible kill feed indicating teammate deaths, a timer suggesting time pressure, and the player holding a knife while in a dynamic environment, all pointing to high engagement."
+frame17-18_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a teammate mid-air performing a jump, a visible kill feed indicating teammate attacks, a timer counting down, and the player holding a knife — all signs of dynamic, high-stakes action typical of high engagement."
+frame18-19_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a static, idle moment in a game map with no visible combat, enemies, or active player movement, and the kill feed indicates teammate attacks which may suggest disorganization rather than active engagement."
+frame19-20_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is holding a grenade, the timer is counting down (2:06), there are teammates and enemies visible, and the kill feed shows recent teammate attacks, all indicating active, high-stakes gameplay."
+frame20-21_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows an active multiplayer match with a timer (02:05), a score display (1-7), a kill feed indicating recent teammate attacks, and a player holding a grenade — all signs of intense, ongoing gameplay with high stakes and player interaction."
+frame21-22_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows an active match in progress with a timer (02:04), rounds left (7), and a kill feed indicating recent teammate attacks, all signs of high engagement and ongoing gameplay tension."
+frame22-23_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is holding a grenade and a pistol, with a kill feed showing teammates being attacked, indicating active combat and team dynamics, while the timer and map suggest ongoing gameplay under pressure."
+frame23-24_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is holding a grenade, teammates are visible and active, a kill feed shows recent teammate attacks, and the timer indicates an ongoing match with a score of 1-7, all suggesting active, high-stakes gameplay."
+frame24-25_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a teammate being attacked (kill feed), a visible timer (2:01), a player holding a grenade, and an enemy character in motion near a vehicle, all indicating intense, dynamic gameplay."
+frame25-26_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with multiple players in motion, a kill feed indicating teammate attacks, a timer counting down, and the player holding a grenade — all signs of intense, high-stakes gameplay."
+frame26-27_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with multiple players in motion, a kill feed indicating recent engagements, a timer suggesting time pressure, and the player holding a weapon with a scope, all pointing to intense, high-stakes gameplay."
+frame27-28_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active multiplayer combat with teammates advancing toward a point, a kill feed indicating recent player actions, a timer counting down, and the player holding a scoped weapon, all indicating high engagement and dynamic gameplay."
+frame28-29_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with teammates visible, a kill feed indicating recent combat, a timer counting down, and the player holding a grenade — all signs of intense, dynamic engagement during a live match."
+frame29-30_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active multiplayer gameplay with teammates advancing through a map, visible kill feed messages indicating recent combat, a timer counting down, and the player holding a weapon, all signaling high engagement and dynamic action."
+frame30-31_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active gameplay with teammates advancing through a doorway, a visible timer (1:55), kill feed messages indicating recent combat, and a player holding a Molotov cocktail — all signs of intense, high-stakes engagement."
+frame31-32_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The player is actively throwing a flashbang grenade in a live multiplayer match, indicated by the kill feed showing teammate attacks and radio chatter, the visible teammate in action, and the timer counting down, all signaling high-intensity, dynamic gameplay."
+frame32-33_01,0.0,low,0,low,0,"Score: 0.0
+Label: Low
+Rationale: The frame is completely blank with no visual content, indicating no gameplay, no HUD, no entities, and no action — a state of absolute inactivity that signifies the lowest possible engagement."
+frame33-34_01,0.0,low,0,low,0,"Score: 0.0
+Label: Low
+Rationale: The frame is completely blank with no visual content, indicating no gameplay, no HUD, no entities, and no action — a state of absolute inactivity that signifies the lowest possible engagement."
+frame34-35_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with teammates engaged in a firefight, visible kill feed messages, a timer indicating time pressure, and a health/ammunition HUD, all signs of intense, high-stakes gameplay."
+frame35-36_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active gameplay with a visible kill feed indicating recent combat, a timer counting down, a teammate’s name highlighted with 100% health, and the player holding a weapon with ammo count, all signaling intense, dynamic engagement."
+frame36-37_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active multiplayer combat with teammates advancing into a building, a kill feed indicating recent player actions, a timer counting down, and the player holding a scoped weapon, all signaling high-intensity, dynamic gameplay."
+frame37-38_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active multiplayer gameplay with teammates moving toward a doorway, a visible kill feed indicating recent combat events, a timer counting down, and the player holding a scoped weapon, all signaling high engagement and ongoing tactical action."
+frame38-39_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active multiplayer combat with teammates advancing, a live kill feed with tactical radio chatter, a timer indicating time pressure, and the player holding a scoped weapon, all signaling intense, high-stakes engagement."
+frame39-40_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active gameplay with a teammate running ahead, a live timer (1:46), in-game chat with tactical commands (e.g., ""Flashbang Out!"", ""Fire in the hole!""), and the player holding a weapon, all indicating high tension and active engagement in a live multiplayer match."
+frame40-41_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active gameplay with a teammate visible, a kill feed indicating ongoing team communication and actions (flashbang, firebomb), a timer counting down, and the player holding a weapon, all signaling high engagement in a competitive match."
+frame41-42_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active gameplay with a teammate visible, a live timer (1:44), in-game chat indicating coordinated team actions (e.g., ""Fire in the hole!"", ""Flashbang Out!""), and the player holding a weapon with ammo count, all indicating high engagement in a competitive match."
+frame42-43_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a teammate running ahead, a visible timer (1:43), a kill feed with tactical radio chatter, and the player holding a weapon, all indicating high engagement and ongoing tactical action."
+frame43-44_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a teammate running ahead, a visible kill feed with tactical communication (e.g., ""Fire in the hole!"", ""Flashbang Out!""), a live timer (1:42), and the player holding a knife in a combat environment, all indicating high engagement and tension."
+frame44-45_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay on a map with visible teammates, a live timer, and a kill feed indicating ongoing team communication and dynamic events (firebombs in play), all signs of high engagement."
+frame45-46_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a knife in hand, a live timer (1:40), a kill feed with team communication (e.g., ""Flashbang Out!"", ""FireBomb on the way!""), and a visible map indicating an ongoing match, all pointing to high engagement and tactical play."
+frame46-47_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows a first-person shooter in an active multiplayer match with a visible timer (1:39), kill feed messages indicating team communication and bomb threats, and the player holding a knife while positioned in a tactical urban environment, all suggesting high engagement and imminent action."
+frame47-48_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is holding a knife in a tense, narrow alleyway with visible teammate names and a kill feed indicating active communication and ongoing gameplay, suggesting high engagement despite no immediate combat."
+frame48-49_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a knife in hand, a live timer (1:37), team chat indicating tactical communication (""FireBomb on the way!""), and visible player names, all suggesting high engagement in a competitive match."
+frame49-50_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a scoped weapon ready, a live timer (1:36), team chat with tactical commands (""Fire in the hole!""), and multiple player names visible, indicating ongoing team coordination and combat pressure."
+frame50-51_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is scoped in on a potential enemy location with a visible kill feed, teammate communication (""Fire in the hole!""), and a timer indicating active gameplay, all suggesting high tension and active engagement."
+frame51-52_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is scoped in on a potential enemy or objective, with a kill feed showing recent player activity and a teammate’s radio call (“Fire in the hole!”), indicating active, tense gameplay with direct communication and imminent action."
+frame52-53_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is scoped in on a potential enemy location with a visible kill feed and active teammate names, indicating ongoing multiplayer combat and high tension, despite the absence of immediate action."
+frame53-54_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is actively holding a scoped rifle in a combat-ready stance in a tactical map (Dust II), with a visible kill feed, score, and timer indicating ongoing multiplayer action, suggesting high engagement."
+frame54-55_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is stationary in a quiet, empty environment with no visible enemies or active combat, and the HUD shows no immediate threats or objectives requiring action, indicating passive gameplay."
+frame55-56_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is in a static, empty indoor environment with no visible enemies or immediate threats, and the HUD shows no active combat indicators (like kill feed or active timer pressure), suggesting a passive, idle state rather than high engagement."
+frame56-57_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is in a static, empty corridor with no visible enemies or teammates, and the HUD shows no immediate threats or active combat, indicating a passive, idle state."
+frame57-58_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is in a quiet, empty environment with no visible enemies or teammates, and the HUD shows no immediate threats or active combat, indicating a passive, low-intensity moment."
+frame58-59_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The player is stationary in a static environment with no visible enemies or immediate threats, and the HUD shows no active combat indicators (no kill feed, no damage taken, no active timer pressure), suggesting a passive, idle state rather than high engagement."

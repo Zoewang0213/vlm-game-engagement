@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer, health, and ammo indicators, suggesting ongoing action and engagement. The player is positioned on a high vantage point, likely anticipating or preparing for combat, indicating a state of readiness and involvement."
+frame01-02_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible weapon, health bar, and score, indicating engagement in combat or a challenge. The timer and score elements suggest time pressure and objectives, contributing to a high level of engagement."
+frame02-03_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible weapon, health bar, and ammo count, indicating readiness for combat. The timer and score suggest an ongoing match with time pressure, and there are environmental elements like barriers and structures that imply strategic positioning."
+frame03-04_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer, health, and ammunition indicators, suggesting ongoing action and engagement."
+frame04-05_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible weapon, health bar, and ammo count, indicating readiness for combat. The timer and score suggest ongoing objectives and time pressure, contributing to high engagement."
+frame05-06_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible weapon, health bar, and ammo count, indicating readiness for combat. The timer and score suggest a competitive environment, contributing to high engagement."
+frame06-07_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The scene shows the player in a static position with no visible combat or dynamic action, and the environment appears uneventful. The HUD indicates health and resources, but there is no sign of immediate threats or interactions with other players."
+frame07-08_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health, score, and timer, indicating time pressure and dynamic action. The player is engaged in a challenging situation with enemies nearby."
+frame08-09_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The scene shows active combat with a visible weapon, health bar, and ammo count, indicating the player is engaged in gameplay. The timer and score suggest a competitive environment, contributing to a sense of urgency and challenge."
+frame09-10_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer, health, and score indicators, suggesting ongoing action and engagement."
+frame10-11_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible weapon, health bar, and ammunition count, indicating readiness for combat. The timer and score suggest an ongoing match with time pressure, and the environment appears dynamic with a view of the map and objectives."
+frame11-12_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a player in a relatively empty environment with no visible combat or interaction, and the HUD indicates minimal action, suggesting low engagement."
+frame12-13_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer, health, and ammo indicators, suggesting ongoing action. The presence of a kill feed and other players indicates interaction and engagement."
+frame13-14_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible kill feed, score, and health indicators, suggesting ongoing engagement and interaction."
+frame14-15_01,0.3,low,0,low,0,"Score: 0.3
+Label: Low
+Rationale: The scene shows a relatively empty environment with no visible combat or interaction, and the HUD indicates minimal action, suggesting a low-intensity state."
+frame15-16_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The scene shows active combat with a visible weapon, health bar, and score, indicating the player is engaged in gameplay. The timer and kill feed suggest ongoing action and interaction."
+frame16-17_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The scene shows active combat with a visible weapon, health bar, and ammo count, indicating the player is engaged in gameplay. The timer and score suggest a competitive environment, contributing to a high level of engagement."
+frame17-18_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The scene shows active combat with visible health, score, and timer, indicating time pressure and dynamic action. The player is holding a weapon and appears to be in a tense situation, suggesting high engagement."
+frame18-19_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The scene shows active gameplay with a visible weapon, health bar, and score, indicating engagement. The timer and kill feed suggest dynamic action and interaction with other players."
+frame19-20_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health, ammo, and score indicators, along with interaction with other players, suggesting intense gameplay."
+frame20-21_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer, health, and ammunition indicators, suggesting ongoing action and engagement. The presence of a kill feed and player names indicates interaction with other players, contributing to a dynamic and challenging environment."
+frame21-22_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible weapon, health and ammo indicators, and a timer, suggesting ongoing action and engagement."
+frame22-23_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer, health, and ammo indicators, suggesting ongoing action and engagement."
+frame23-24_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health, ammo, and score indicators, suggesting intense gameplay and time pressure."
+frame24-25_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a visible weapon, health bar, and score, indicating intense gameplay and time pressure."
+frame25-26_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a visible weapon, health bar, and score, indicating intense gameplay and time pressure."
+frame26-27_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health, ammo, and score indicators, along with a timer and interaction with other players, indicating intense gameplay."
+frame27-28_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a crosshair targeting an enemy, visible health and score indicators, and interaction with another player, indicating intense gameplay."
+frame28-29_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with damage numbers, a kill feed notification, and interaction with other players, indicating intense and meaningful gameplay."
+frame29-30_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a visible weapon, health and ammo indicators, a timer, and interaction with other players, indicating intense gameplay."
+frame30-31_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with an enemy kill notification, a timer indicating time pressure, and interaction with other players, suggesting high engagement."
+frame31-32_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with a ""Quad Kill"" notification, a score of 970, and a timer indicating ongoing gameplay, suggesting intense and meaningful engagement."
+frame32-33_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with a ""Quad Kill"" notification, a timer indicating time pressure, and visible health and score metrics, suggesting intense and meaningful gameplay."
+frame33-34_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with a ""Champion Killer"" notification, a timer indicating time pressure, and visible health and score metrics, suggesting intense and meaningful gameplay."
+frame34-35_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with an enemy kill notification, a timer indicating time pressure, and visible health and score metrics, suggesting intense and meaningful gameplay."
+frame35-36_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with an ""Enemy Killed"" notification, visible score feedback, and a weapon equipped, indicating intense gameplay."
+frame36-37_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible health, score, and timer, indicating time pressure and dynamic action. The player is engaged in a match with other players, as seen by the kill feed and interaction indicators."
+frame37-38_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a timer indicating time pressure, and dynamic action, suggesting high player engagement."
+frame38-39_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with a crosshair targeting an enemy, a timer indicating time pressure (""3 MINUTES REMAINING!""), and visible health and score indicators, suggesting intense and meaningful gameplay."
+frame39-40_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with a timer indicating time pressure, visible health and score, and interaction with other players, suggesting intense gameplay."
+frame40-41_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with a ""Champion Killer"" notification, a timer, and health/XP indicators, suggesting intense gameplay and player engagement."
+frame41-42_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible feedback like ""ENEMY KILLED"" and score updates, indicating intense gameplay and interaction with other players."
+frame42-43_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with an ""Enemy Killed"" notification, a timer indicating time pressure, and visible health and score metrics, suggesting intense and meaningful gameplay."
+frame43-44_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The scene shows active combat with visible health, score, and timer, indicating time pressure and dynamic action. The ""Payback! +55 XP"" feedback suggests recent interaction with other players, contributing to high engagement."
+frame44-45_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a timer indicating time pressure, and various HUD elements like health, score, and ammunition, suggesting intense gameplay."
+frame45-46_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a vehicle and visible HUD elements indicating health, score, and ammunition, suggesting dynamic action and engagement."
+frame46-47_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible weapon, health bar, and score, indicating engagement. There are other players and a timer, suggesting dynamic action and time pressure."
+frame47-48_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The scene shows active gameplay with a timer, health, and ammo indicators, suggesting ongoing action and engagement. The player is in a combat environment with visible objectives and potential threats, indicating a challenging situation."
+frame48-49_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible health bar, ammo count, and a timer, indicating ongoing action and time pressure. The player is holding a weapon and appears to be in a combat situation, suggesting engagement and challenge."
+frame49-50_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The scene shows active combat with a visible weapon, health bar, and score, indicating intense gameplay and time pressure."
+frame50-51_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible HUD indicating health, ammunition, and a timer, suggesting ongoing action and time pressure. There are also indicators of other players and objectives, contributing to a sense of engagement."
+frame51-52_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The scene shows active combat with visible health, score, and timer, indicating time pressure and dynamic action. The player is engaged in a potentially challenging situation with enemies nearby."
+frame52-53_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health, ammo, and score indicators, suggesting intense gameplay and time pressure."
+frame53-54_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health, score, and timer, indicating time pressure and dynamic action. The player is engaged in a challenging situation with enemies nearby."
+frame54-55_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a scoped view of a building, indicating active aiming or searching, with visible health and score indicators, suggesting ongoing gameplay and engagement."
+frame55-56_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible health bar, score, and timer, indicating ongoing action and time pressure. The player is holding a weapon, suggesting engagement in combat or readiness for action."
+frame56-57_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible weapon, health bar, and score, indicating engagement. The timer and kill feed suggest ongoing action and competition."
+frame57-58_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health, ammo, and score indicators, suggesting intense gameplay and interaction with other players."
+frame58-59_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health, score, and timer, indicating time pressure and dynamic action. The presence of other players and the ongoing battle suggest high engagement."

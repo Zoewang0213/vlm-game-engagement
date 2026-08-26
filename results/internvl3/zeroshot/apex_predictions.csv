@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible feedback such as ""ELIMINATED"" and interaction with other players, indicating intense gameplay and time pressure."
+frame01-02_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a ""Drone Detected"" alert, indicating a potential threat or challenge, and the player is aiming at a target, suggesting engagement in combat."
+frame02-03_01,0.6,low,0,high,1,"Score: 0.6
+Label: Low
+Rationale: The scene shows a relatively static environment with minimal action, indicated by the ""Drone Detected"" alert and the lack of immediate combat or dynamic events. The player appears to be in a low-intensity situation with no visible interaction with other players or enemies."
+frame03-04_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a countdown, visible HUD elements like health and ammo, and interaction with other players in the kill feed, suggesting engagement and dynamic action."
+frame04-05_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a scoped weapon aimed at an enemy, a timer indicating a round in progress, and visible interaction with other players, suggesting high engagement and intensity."
+frame05-06_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a round in progress, visible health and ammo, and interaction with other players, suggesting engagement and challenge."
+frame06-07_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a round in progress, visible health and ammo, and a notification that an ultimate ability is ready, suggesting ongoing engagement and readiness for action."
+frame07-08_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a round in progress, visible health and ammunition, and a notification that an ultimate ability is ready. The player is moving through a dynamic environment with other players and objectives, suggesting intense engagement."
+frame08-09_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a timer indicating time pressure, and dynamic action with the player's ultimate ability ready, suggesting intense gameplay."
+frame09-10_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with visible gunfire, a timer indicating a round in progress, and the player's ultimate ability being ready, suggesting dynamic action and time pressure."
+frame10-11_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a round in progress, visible health and ammunition, and a readiness notification for an ultimate ability, suggesting dynamic action and time pressure."
+frame11-12_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a round in progress, visible health and ammunition, and a minimap with player positions, suggesting engagement in dynamic action."
+frame12-13_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a round in progress, visible health and ammunition, and interaction with an environmental object, suggesting engagement and dynamic action."
+frame13-14_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible damage to a vehicle, a minimap indicating nearby players, and a timer suggesting a round is in progress, all indicating intense gameplay."
+frame14-15_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a visible weapon, teammate indicators, and a ""RING CLOSING"" alert, suggesting time pressure and dynamic action."
+frame15-16_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows a ""RING CLOSING"" alert, indicating a shrinking play area, which creates time pressure and tension. There are also HUD elements showing health, ammunition, and teammate status, suggesting active gameplay."
+frame16-17_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows a ""RING CLOSING"" alert, indicating a shrinking play area, which creates time pressure and tension. There are visible HUD elements such as health, ammo, and a mini-map, along with teammate indicators, suggesting active gameplay and interaction."
+frame17-18_01,0.6,low,0,high,1,"Score: 0.6
+Label: Low
+Rationale: The scene shows the player in a corridor with no immediate action or combat, and the HUD indicates a lack of dynamic events or interaction with other players."
+frame18-19_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a timer indicating time pressure, and dynamic action elements like weapon interaction and player movement."
+frame19-20_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a closing round, visible health and ammo, and interaction with teammates, suggesting engagement and tension."
+frame20-21_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a closing round, visible health and ammo, and interaction with teammates, suggesting engagement and tension."
+frame21-22_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a closing round, visible health and ammo, and interaction with other players, suggesting engagement and tension."
+frame22-23_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a shield battery prompt, indicating a strategic action. There are visible HUD elements like health, ammo, and a minimap, and the player is interacting with the environment, suggesting engagement."
+frame23-24_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a timer indicating a closing round, and dynamic action such as shield battery management, suggesting high engagement."
+frame24-25_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a timer indicating time pressure, and interaction with teammates, suggesting intense and meaningful gameplay."
+frame25-26_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health bars, a timer indicating a closing round, and interaction with teammates, suggesting intense and meaningful gameplay."
+frame26-27_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health and shield indicators, a timer indicating a closing round, and interaction with teammates, suggesting intense and meaningful gameplay."
+frame27-28_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a teammate nearby, a timer indicating a closing round, and visible health and ammunition HUD elements, suggesting intense gameplay and time pressure."
+frame28-29_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a timer indicating time pressure, and interaction with teammates, suggesting intense and meaningful gameplay."
+frame29-30_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with the player aiming at an enemy, indicated by the scope view and damage numbers, along with a timer and score HUD elements, suggesting a high-intensity situation."
+frame30-31_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The scene shows active combat with the player aiming at enemies, visible health and ammo indicators, a kill feed notification, and a timer indicating a closing round, all suggesting high engagement and intensity."
+frame31-32_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with the player having just knocked down an enemy, visible health and ammo indicators, a kill feed, and a timer indicating a closing round, all suggesting high engagement and intensity."
+frame32-33_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with visible damage feedback, a timer indicating time pressure, and interaction with other players, suggesting intense and meaningful gameplay."
+frame33-34_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health bars, a kill feed, and a timer indicating a round in progress, suggesting intense and meaningful gameplay."
+frame34-35_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a kill feed indicating recent player actions, and a timer suggesting time pressure, all of which indicate high engagement."
+frame35-36_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with visible gunfire, enemy indicators, and a kill feed, indicating intense gameplay and interaction with other players."
+frame36-37_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with a visible enemy target, a countdown timer, and a kill feed indicating recent player actions, suggesting high engagement and intensity."
+frame37-38_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with recent eliminations, a kill feed, and a timer indicating a closing round, suggesting intense and meaningful gameplay."
+frame38-39_01,0.9,high,1,high,1,"Score: 0.9
+Label: High
+Rationale: The scene shows active combat with recent eliminations, a kill feed, and a timer indicating a closing round, suggesting intense and meaningful gameplay."
+frame39-40_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is in the death box menu, indicating they have been defeated, and there is no active combat or dynamic action visible."
+frame40-41_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is in the inventory menu, indicating a pause in active gameplay, with no immediate signs of combat or dynamic action."
+frame41-42_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health bars, a kill feed, and a timer indicating a closing round, suggesting intense gameplay and interaction with other players."
+frame42-43_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is in the death box menu, indicating a pause in active gameplay, with no immediate combat or dynamic action visible."
+frame43-44_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is interacting with the death box menu, which indicates recent in-game action or a recent defeat, suggesting active engagement. Additionally, the kill feed and player health bar are visible, showing ongoing gameplay and interaction with other players."
+frame44-45_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible enemies, a timer indicating a closing round, and interaction with items, suggesting intense gameplay and time pressure."
+frame45-46_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a closing round, visible health and ammo, and interaction with teammates, suggesting engagement and tension."
+frame46-47_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a shield battery prompt, indicating a strategic action. There are HUD elements like a minimap, score, and ammo count, and the environment suggests a tense situation with potential for combat."
+frame47-48_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health and shield indicators, a timer indicating time pressure, and interaction with other players, suggesting high engagement."
+frame48-49_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a shield battery interaction, a timer indicating a round closing, and visible health and ammo indicators, suggesting engagement in a dynamic situation."
+frame49-50_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a closing round, visible health and shield levels, and interaction with an objective (Shield Battery). There are also indicators of other players and dynamic elements, suggesting engagement and tension."
+frame50-51_01,0.8,high,1,high,1,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with visible health and shield indicators, a timer indicating time pressure, and interaction with a shield battery, suggesting intense and meaningful gameplay."
+frame51-52_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a closing round, visible health and ammo, and interaction with an object, suggesting engagement and anticipation."
+frame52-53_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is accessing the death box menu, indicating a pause in action, with no visible combat or dynamic gameplay occurring."
+frame53-54_01,0.8,high,1,low,0,"Score: 0.8
+Label: High
+Rationale: The scene shows active combat with a visible enemy target, a timer indicating a closing round, and HUD elements displaying health, ammunition, and other gameplay feedback, suggesting intense and meaningful gameplay."
+frame54-55_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a closing round, visible health and ammunition, and interaction with teammates, suggesting engagement and tension."
+frame55-56_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a closing round, visible health and ammo, and interaction with teammates, suggesting engagement in a dynamic and challenging situation."
+frame56-57_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a closing round, visible health and ammunition, and interaction with teammates, suggesting engagement and dynamic action."
+frame57-58_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a timer indicating a round closing, visible health and ammunition, and interaction with teammates, suggesting engagement in a dynamic and challenging situation."
+frame58-59_01,0.7,high,1,low,0,"Score: 0.7
+Label: High
+Rationale: The scene shows active gameplay with a visible enemy in the distance, a minimap indicating nearby threats, and a timer showing the round is ongoing, suggesting dynamic action and engagement."

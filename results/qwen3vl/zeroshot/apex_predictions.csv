@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with an ""ELIMINATED"" notification, visible teammates and enemies, a countdown timer, and dynamic visual effects (lightning), all indicating intense, high-stakes gameplay."
+frame01-02_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat indicators (DRONE DETECTED alert, weapon in hand, enemy presence implied by the drone warning), a timer (08:11), and dynamic visual effects (blue energy trails), all suggesting intense, ongoing gameplay with high stakes and player focus."
+frame02-03_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a “DRONE DETECTED” alert, visible weapon and ammo HUD, and a visible enemy drone in the environment, indicating an ongoing tense combat situation that requires player response."
+frame03-04_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The player is in an active combat environment with visible HUD elements like health, ammo, squad count, and a kill feed, indicating ongoing gameplay and interaction with other players, which suggests high engagement."
+frame04-05_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is actively aiming a weapon with a scope, targeting an enemy in a combat scenario, with visible HUD elements like round timer, squad count, and health, indicating active, high-stakes gameplay."
+frame05-06_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is in an active combat scenario with a visible kill feed, squad count, round timer, and weapon HUD, indicating ongoing gameplay with stakes and interaction."
+frame06-07_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is in an active combat scenario with a visible timer (Round 2, 6:58), multiple squad indicators, and a notification that “My Ultimate is Ready!” — all signs of high-intensity gameplay and player focus."
+frame07-08_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is in an active combat scenario with a visible timer (Round 2, 5:58), multiple squad indicators, and a “My Ultimate is Ready!” prompt, suggesting imminent action and high stakes. The presence of teammates and enemies, combined with the player’s equipped weapon and active HUD elements, indicates intense, meaningful gameplay."
+frame08-09_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is in an active combat scenario with a visible timer (Round 2, 4:49), multiple squads remaining (7), and an active ultimate ability prompt, indicating ongoing gameplay pressure and interaction."
+frame09-10_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is in an active combat scenario with a visible timer (Round 2, 3:49), an active weapon (Flatline with 30 ammo), a teammate’s name and health bar, and a notification that “My Ultimate is Ready!” — all indicating intense, meaningful gameplay with time pressure and player interaction."
+frame10-11_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is actively driving a vehicle in a competitive multiplayer match (Round 2, 7 squads left), with a visible timer, weapon status, and an ultimate ability ready notification, indicating active, high-stakes gameplay."
+frame11-12_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a round timer (1:49), visible squad count (7 squads left), and weapon HUD indicating combat readiness, all suggesting ongoing, high-stakes engagement."
+frame12-13_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is in an active combat scenario (Round 2 with 58 seconds remaining, 7 squads left, and visible weapons and health UI), indicating time pressure and ongoing gameplay, which are strong indicators of high engagement."
+frame13-14_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a visible weapon, ammo count, and a round timer, along with multiple squad indicators and a dynamic environment, all signaling intense, ongoing gameplay."
+frame14-15_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a ""RING CLOSING"" alert indicating time pressure, visible teammates and player names, a weapon in hand with ammo count, and a minimap, all suggesting intense, dynamic engagement."
+frame15-16_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows a ""RING CLOSING"" alert, indicating time pressure and a shrinking play area, combined with active HUD elements like squad count, score, and weapon status, suggesting intense, dynamic gameplay."
+frame16-17_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows a ""RING CLOSING"" alert with a countdown timer (133 seconds), indicating a time-sensitive, high-stakes situation common in competitive gameplay, combined with active player HUD elements and visible teammates, suggesting intense engagement."
+frame17-18_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The player is in a narrow, tense corridor with visible teammate markers and active HUD elements (ammo, health, squad count), suggesting imminent combat or strategic positioning in a competitive multiplayer scenario."
+frame18-19_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a player holding a weapon, a visible teammate marker, a round timer counting down, and a score/health HUD, all indicating ongoing combat and time pressure typical of high engagement."
+frame19-20_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a timer counting down (1:07), multiple squads remaining, visible teammate and enemy indicators, and the player holding a weapon with ammo count, all suggesting ongoing combat and high tension."
+frame20-21_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay in a multiplayer match with a round timer, squad count, and player names visible, indicating ongoing competitive action and interaction with other players."
+frame21-22_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The player is in an active combat scenario with a visible teammate, a round timer counting down, and a score/health HUD indicating ongoing gameplay, suggesting active engagement despite the absence of immediate combat."
+frame22-23_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The player is in an active combat scenario with a visible teammate, a countdown timer for the round, and a weapon equipped with a shield battery being interacted with, indicating ongoing gameplay and tactical decision-making under time pressure."
+frame23-24_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible enemy players, a countdown timer for the round, a shield battery being deployed, and multiple HUD elements indicating ongoing gameplay, all pointing to high player engagement."
+frame24-25_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is in an active combat scenario with a visible enemy (Lean-Batist) ahead, a timer counting down for Round 2, and a shield battery being deployed — all indicators of high engagement and tactical decision-making under pressure."
+frame25-26_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is in an active combat scenario with a visible enemy (Lean-Batist) ahead, a round timer counting down (1:01), and a shield battery being deployed, indicating tactical decision-making under time pressure and direct threat."
+frame26-27_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible teammate, a timer counting down for round closure, a shield battery being charged (indicating strategic resource management), and a HUD displaying squad count and score — all signs of intense, meaningful engagement in a competitive match."
+frame27-28_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a teammate visible ahead, a round timer counting down (0:59), and a HUD indicating 7 squads left and player stats, all suggesting ongoing, high-stakes combat in a competitive match."
+frame28-29_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a teammate visible ahead, a round timer counting down (0:58), and a HUD displaying health, ammo, and squad count, indicating ongoing combat or high-stakes movement in a competitive match."
+frame29-30_01,0.95,high,1,low,0,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat through the scope, with visible enemy targets, a countdown timer (0:57), and a score HUD indicating ongoing gameplay, all pointing to high player engagement."
+frame30-31_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a scoped weapon aimed at an enemy, visible damage numbers, a countdown timer for the round, and teammate indicators, all signaling intense, real-time gameplay engagement."
+frame31-32_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a scoped weapon, a recent kill confirmed by “KNOCKED DOWN” and damage inflicted, a countdown timer (“0:55”), enemy indicators, and a kill feed, all indicating intense, high-stakes gameplay."
+frame32-33_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a ""KNOCKED DOWN"" notification, visible enemy player tags, a countdown timer (""0:54""), and a kill feed indicating recent action, all signaling high player engagement."
+frame33-34_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible enemy indicators, a kill feed notification (“Enemy Shield Broken”), a round timer nearing zero, and multiple player names in the HUD, all indicating intense, time-sensitive gameplay."
+frame34-35_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with enemy shields breaking, a countdown timer for round closure, visible teammates and enemies, and a weapon in hand, all indicating intense, meaningful gameplay."
+frame35-36_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with visible gunfire, enemy shield breaks in the kill feed, a countdown timer for the round, and multiple player names indicating team interaction, all signaling high engagement."
+frame36-37_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a weapon firing, an enemy target visible, a countdown timer, and kill feed notifications indicating recent enemy eliminations, all signs of high engagement."
+frame37-38_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with recent eliminations, a countdown timer for Round 2, multiple squad indicators, and a kill feed, all signaling intense, fast-paced gameplay with high stakes and player interaction."
+frame38-39_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with recent eliminations, a kill feed, a round timer, and a squad count, all indicating intense, fast-paced gameplay with high stakes and player interaction."
+frame39-40_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is paused at a death box loot screen, not actively engaged in combat or movement, with no visible enemies or dynamic action occurring in the environment."
+frame40-41_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is in the death box menu, selecting attachments, which is a passive, non-combat state, indicating low engagement despite visible HUD elements and other players."
+frame41-42_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible enemy indicators, a kill feed notification (“Enemy Shield Broken”), a countdown timer (“ROUND 2 - CLOSING 0:45”), and a teammate nearby, all indicating intense, time-sensitive gameplay with direct player interaction."
+frame42-43_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is in the death box inventory screen, which is a pause state, and the scene shows no active combat or dynamic action, indicating low engagement."
+frame43-44_01,0.7,high,1,high,1,"Score: 0.7
+Label: High
+Rationale: The frame shows active gameplay with a weapon equipped, a kill feed indicating recent combat (""Enemy Shield Broken""), and a player in the process of managing attachments, suggesting tactical decision-making under pressure."
+frame44-45_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a player holding a weapon, a teammate nearby, a kill feed indicating recent combat, a round timer counting down, and an interactive item (a corpse chest), all suggesting intense, ongoing engagement."
+frame45-46_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (0:41), squad count (6 squads left), kill feed, and player health/weapon status, indicating ongoing competitive action and time pressure, which are signs of high engagement."
+frame46-47_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The player is in an active combat scenario with a round timer counting down (Round 2 - Closing 0:49), visible squad count (6 squads left), and a kill feed showing player interactions, indicating ongoing gameplay tension and engagement."
+frame47-48_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is actively interacting with a shield battery in a combat environment, indicated by the on-screen prompt and visible fire/explosions, while also tracking squad count, round timer, and teammate status, all signs of high engagement."
+frame48-49_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The player is actively interacting with an in-game object (Shield Battery) during a timed round with visible squad count and round timer, indicating ongoing gameplay under pressure, which signifies high engagement."
+frame49-50_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The player is actively interacting with an in-game object (Shield Battery) during a timed round with visible squad count and round timer, indicating ongoing gameplay pressure and active participation."
+frame50-51_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The player is in the middle of a timed round with a countdown (0:36), actively interacting with an item (Shield Battery), and has teammates and squad count visible, indicating active, competitive gameplay under pressure."
+frame51-52_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a round timer counting down (0:35), a visible objective (E to open a crate), multiple squad indicators, and a player’s weapon and ammo displayed, all suggesting active, time-sensitive engagement in a competitive match."
+frame52-53_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is viewing an inventory menu with a pickup tooltip, indicating a pause in active gameplay, which is a sign of low engagement."
+frame53-54_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a teammate’s name tagged nearby, a countdown timer for the round, visible health and ammo indicators, and a dynamic environment suggesting ongoing gameplay, all pointing to high player engagement."
+frame54-55_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a teammate visible, a round timer counting down, squad count, and weapon HUD indicating combat readiness, all suggesting intense, ongoing engagement."
+frame55-56_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible weapon, a round timer counting down (Round 2 - Closing), multiple squad indicators, and a kill feed, all suggesting intense, time-sensitive combat engagement."
+frame56-57_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible teammate, a round timer counting down (ROUND 2 - CLOSING), squad count, and weapon HUD, indicating ongoing competitive action and time pressure, which are signs of high engagement."
+frame57-58_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (8:13) indicating time pressure, multiple squad indicators (6 squads left), and a player’s health/weapon status, all suggesting ongoing combat or competitive tension. The presence of teammates and environmental hazards implies active engagement."
+frame58-59_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (0:12), multiple squads remaining, player health and ammo indicators, and a teammate’s nameplate, all suggesting ongoing combat or high-stakes gameplay. The environment is dynamic with visible structures and distant explosions, indicating an intense, action-oriented scenario."

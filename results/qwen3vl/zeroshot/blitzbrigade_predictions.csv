@@ -1,0 +1,178 @@
+frame,score,prediction,pred_01,ground_truth,gt_01,raw_response
+frame00-01_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a timer (03:27), visible scores (32/99 and 72/99), health/armor indicators, and multiple UI controls for movement and actions, suggesting the player is immersed in a competitive, time-sensitive battle scenario."
+frame01-02_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a weapon aimed, a timer counting down (03:26), visible team scores (32/99 vs 72/99), and health/ammunition indicators, all suggesting intense, competitive engagement."
+frame02-03_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a weapon aimed, a timer counting down (03:25), visible health and ammo counters, and a score display (32/99, 72/99), all indicating intense, time-sensitive gameplay with clear stakes and player interaction."
+frame03-04_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (03:24), health/ammunition stats, and a weapon in hand, indicating ongoing combat or mission progression, which suggests high engagement."
+frame04-05_01,0.3,low,0,high,1,"Score: 0.3
+Label: Low
+Rationale: The player is standing in a static, empty corridor with no visible enemies or immediate action, and the HUD shows no active combat indicators (like kill feed or rapid health changes), suggesting a passive, idle moment rather than high engagement."
+frame05-06_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible weapon, health and ammo counters, a timer, and team scores, indicating ongoing combat or competitive play, which suggests high engagement."
+frame06-07_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a timer (03:21), health/ammunition stats (33/99, 74/99), and multiple UI elements indicating combat readiness (weapons, abilities), suggesting the player is immersed in an intense, ongoing match."
+frame07-08_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a weapon aimed, a visible timer (03:20), health and ammo counters, and enemy indicators, all suggesting intense, ongoing gameplay with time pressure and player interaction."
+frame08-09_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a weapon aimed, a timer counting down (03:19), visible team scores (34/99 and 76/99), and health/ammunition indicators, all suggesting intense, ongoing gameplay with time pressure and player interaction."
+frame09-10_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible weapon, health and ammo counters, a timer, and enemy/team indicators, suggesting ongoing combat or competitive action, which indicates high engagement."
+frame10-11_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a timer (03:17), visible health and ammo counters, multiple player icons (34/99 and 76/99), and a dynamic environment with a vehicle in motion, all indicating intense, ongoing combat or mission activity."
+frame11-12_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (03:16), health/ammunition counters, a kill feed notification (""User NO freak has joined the game""), and a first-person perspective with weapon and movement controls, all indicating ongoing, dynamic engagement."
+frame12-13_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (03:15), health/ammunition indicators, a kill feed notification (""User no freak was joined the game""), and a first-person perspective aiming a weapon, all suggesting ongoing, dynamic engagement."
+frame13-14_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (03:14), player scores (34/99 and 76/99), a kill feed notification (""user NO freak has joined the game""), and a weapon with ammo count (13/03), all indicating ongoing competitive action and player interaction."
+frame14-15_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (03:13), player stats (35/99, 78/99), a kill feed notification (""user NO freak has joined the game""), and a weapon with ammo count (13/03), all indicating ongoing competitive action and player interaction."
+frame15-16_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a scoped weapon aimed, a timer counting down (03:12), visible health and ammo stats, and multiple player indicators (scores 35/99 and 78/99), all suggesting intense, ongoing gameplay with time pressure and player interaction."
+frame16-17_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a visible timer (03:11), health/ammunition counters, and a first-person perspective aiming a weapon, indicating intense gameplay and player focus."
+frame17-18_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a visible weapon, a timer (03:10) indicating time pressure, health and ammo counters, and a score display (35/99, 78/99), all signs of intense, meaningful gameplay."
+frame18-19_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a visible weapon, health and ammo indicators, a timer, and a kill feed (“NO freak Agentknalli”), all suggesting intense, real-time gameplay with player interaction and stakes."
+frame19-20_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (03:08), health/ammunition stats, player names (indicating multiplayer interaction), and a weapon in the player’s hands, all suggesting intense, ongoing combat or mission activity."
+frame20-21_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (03:07), health/ammunition stats, a kill feed (""NO freak Agentknalli""), and a weapon in hand, indicating ongoing combat or high-stakes interaction."
+frame21-22_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (03:06), health/ammunition stats, and multiple UI elements indicating combat readiness (weapons, abilities, health), suggesting the player is immersed in an intense, ongoing match."
+frame22-23_01,0.75,high,1,low,0,"Score: 0.75
+Label: High
+Rationale: The frame shows active gameplay with a timer (03:05), visible health and ammo stats, and a weapon in hand, indicating the player is immersed in combat or a mission, which suggests high engagement."
+frame23-24_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a visible weapon, health and ammo counters, a timer, and team scores, indicating ongoing gameplay under pressure, which suggests high engagement."
+frame24-25_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a weapon aimed, a timer counting down (03:03), visible health and ammo counters, and a score display, all indicating intense, time-sensitive gameplay with clear stakes."
+frame25-26_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active first-person gameplay with a weapon aimed, a timer counting down (03:02), visible health and ammo stats, and a score display indicating competitive multiplayer action, all signs of high engagement."
+frame26-27_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a visible enemy player (Bengal2005), a countdown timer (03:01), health/ammunition indicators, and dynamic environmental effects (explosion/fire), all signaling intense, high-stakes gameplay."
+frame27-28_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows a first-person shooter scope view with crosshairs locked on an enemy player (Agentknalli), visible health and ammo counters, and player names indicating multiplayer combat — all signs of intense, active engagement."
+frame28-29_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat through a sniper scope, with visible kill feedback (""CHAMPION KILLER! +440 XP""), enemy names, and damage numbers, indicating intense, meaningful gameplay with direct player interaction and reward."
+frame29-30_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active first-person gameplay with a weapon aimed, a visible timer (02:58), health/ammunition indicators, and a kill feed notification (“Uber the Boss has joined the game”), all suggesting ongoing, dynamic, and competitive engagement."
+frame30-31_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with an ""ENEMY KILLED! +55 XP"" notification, a visible timer (02:57), health/ammunition indicators, and multiple player icons, all indicating intense, ongoing gameplay with immediate feedback and stakes."
+frame31-32_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a ""QUAD KILL! +220 XP"" notification, a large ""970!"" damage indicator, a live timer, and multiple player/team indicators, all signaling intense, rewarding gameplay."
+frame32-33_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a ""QUAD KILL! +220 XP"" notification, a visible enemy player, a timer, health/ammunition indicators, and a weapon in use, all indicating intense, meaningful gameplay."
+frame33-34_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a ""CHAMPION KILLED"" notification, a timer, health bars, and multiple UI elements indicating ongoing gameplay, all pointing to high player engagement."
+frame34-35_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with an ""ENEMY KILLED!"" notification, a visible weapon firing, a timer, health/XP bars, and multiple player indicators, all signaling intense, dynamic gameplay."
+frame35-36_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with an ""ENEMY KILLED! +55 XP"" notification, an equipped weapon, a shield refill prompt, and respawn options, all indicating ongoing, intense gameplay with immediate feedback and rewards."
+frame36-37_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a visible weapon, a kill feed notification (""UNSTOPPABLE! +330 XP""), a timer, and multiple player indicators, all signaling intense, meaningful gameplay."
+frame37-38_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a crosshair targeting an enemy, a countdown timer (""3 MINUTES REMAINING!"") indicating time pressure, visible player names (AgentKnali, Provan Burger), and full health/score UI, all signaling intense, meaningful gameplay."
+frame38-39_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows a scoped view with a timer (“3 MINUTES REMAINING!”) indicating time pressure, visible enemy targets, and active HUD elements (health, score, controls), all suggesting intense, active gameplay."
+frame39-40_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows a first-person shooter with a scoped view, a 3-minute timer indicating time pressure, visible enemy names (Agentknalli), a health bar at full capacity, and a score of 40421, all suggesting active, high-stakes gameplay."
+frame40-41_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with a glowing weapon, a ""CHAMPION KILLER! +440 XP"" reward notification, a timer, health/ammunition indicators, and multiple player names, all indicating intense, meaningful gameplay."
+frame41-42_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with an ""ENEMY KILLED! +55 XP"" notification, a live timer (02:46), health/ammunition counters, and player names, all indicating intense, real-time gameplay with immediate feedback and stakes."
+frame42-43_01,0.95,high,1,high,1,"Score: 0.95
+Label: High
+Rationale: The frame shows active combat with an ""ENEMY KILLED! +55 XP"" notification, a live timer (02:45), visible health and ammo counters, and a first-person perspective holding a weapon, all indicating intense, ongoing gameplay."
+frame43-44_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a “PAYBACK! +55 XP” reward notification, a timer (02:44), visible health and ammo counters, and multiple UI elements indicating player actions and status, all pointing to intense, meaningful gameplay."
+frame44-45_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible enemy players, a countdown timer (02:43), health and ammo indicators, and a weapon in hand, all suggesting intense, ongoing gameplay with time pressure and player interaction."
+frame45-46_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health bars, a timer, and weapon/ammo indicators, along with enemy presence and dynamic environment elements like a zeppelin and terrain obstacles, all suggesting intense, ongoing gameplay."
+frame46-47_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (02:41), health and ammo counters, multiple UI controls for movement and actions, and a dynamic environment with a blimp and distant structures, indicating ongoing combat or mission progression."
+frame47-48_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (02:40), health and ammo counters, and a weapon in view, indicating ongoing combat or mission progression, which suggests high engagement."
+frame48-49_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible weapon, health and ammo counters, a timer, and a score display indicating an ongoing match, suggesting the player is immersed in dynamic, competitive action."
+frame49-50_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a weapon aimed, a timer counting down (02:38), visible health and ammo stats, and a score display (42/99, 92/99), all indicating intense, time-sensitive gameplay with direct player interaction."
+frame50-51_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with a visible enemy in the distance, a timer counting down (02:37), health and ammo indicators, and a score display, all suggesting intense, time-sensitive gameplay with player interaction and stakes."
+frame51-52_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health, ammo, and score indicators, a timer counting down, and multiple UI elements for movement and actions, suggesting the player is immersed in dynamic gameplay."
+frame52-53_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active first-person combat with a weapon aimed, a timer counting down (02:35), visible health and ammo counters, and enemy indicators (42/99, 92/99), all suggesting intense, time-pressured gameplay."
+frame53-54_01,0.85,high,1,high,1,"Score: 0.85
+Label: High
+Rationale: The frame shows active first-person combat with a weapon aimed, a timer counting down (02:34), visible health and ammo counters, and enemy indicators, all suggesting intense, ongoing gameplay with time pressure and active player involvement."
+frame54-55_01,0.75,high,1,high,1,"Score: 0.75
+Label: High
+Rationale: The frame shows a scoped view with a crosshair aimed at a target, indicating active aiming and combat readiness, along with visible health and score HUD elements, suggesting ongoing gameplay with stakes."
+frame55-56_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health bars, a timer, and multiple player icons indicating ongoing multiplayer action, along with a weapon and HUD elements suggesting real-time decision-making and engagement."
+frame56-57_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active gameplay with a visible timer (02:31), score indicators (43/99, 94/99), and a weapon with ammo count (13/07), suggesting ongoing combat or objectives. The player’s health is full (1088/1088), and the environment is dynamic with visible terrain and structures, indicating active exploration or engagement rather than idle or menu states."
+frame57-58_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible enemy names (“the Boss”, “NO freak”), a timer (02:30), health/ammunition indicators, and a dynamic environment with a glowing beam and buildings, all suggesting intense, ongoing gameplay."
+frame58-59_01,0.85,high,1,low,0,"Score: 0.85
+Label: High
+Rationale: The frame shows active combat with visible health bars, a timer, and player names (""the Boss"", ""NO freak"") indicating multiplayer interaction, along with a weapon and movement controls, all pointing to intense, ongoing gameplay."
