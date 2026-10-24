@@ -31,6 +31,7 @@
     --grid: #ECECF0;
     --internvl: #2A78D6;
     --qwen: #EB6834;
+    --red: #D12632;
     --radius: 14px;
     --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", Inter, "Helvetica Neue", Arial, sans-serif;
     --mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
@@ -59,6 +60,7 @@
   .venue img { height: 40px; width: auto; }
   .pill { display: inline-flex; align-items: center; gap: 6px; padding: 5px 12px; border-radius: 999px; font-size: 13px; font-weight: 700; letter-spacing: .02em; }
   .pill.dark { background: var(--ink); color: #fff; }
+  .pill.red { background: var(--red); color: #fff; }
   .pill.line { border: 1.5px solid var(--ink); color: var(--ink); }
   h1, h2 { text-wrap: balance; }
   h1 { font-size: clamp(32px, 5.4vw, 54px); line-height: 1.08; letter-spacing: -0.03em; margin: 0 auto 28px; max-width: 900px; }
@@ -228,6 +230,7 @@
     <div class="venue">
       <img src="static/images/emnlp2026_logo.png" alt="EMNLP 2026, Budapest">
       <span class="pill dark">Main Conference · Oral</span>
+      <span class="pill red">Top 2.6%</span>
     </div>
     <h1>Do Vision–Language Models Understand Human Engagement in Games?</h1>
     <p class="authors">
